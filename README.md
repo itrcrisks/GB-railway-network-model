@@ -1,5 +1,5 @@
 # GB-railway-network-model
-A model of the Great Britain (GB railway network with topology and flows
+A model of the Great Britain (GB) railway network with topology and passenger daily flows.
 
 ## Requirements and description
 
