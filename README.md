@@ -14,8 +14,8 @@ dependencies.
 All input data is stored in a folder `GB_rail_data`, which contains the input data required for running the model.
 The input data is organised in sub-folders:
 - `timetable`: Train timetable schedules in 2019 released by the [ATOC](http://data.atoc.org/how-to)
-	This data is not shared here, because the user should download it from the ATOC website by creating a free login account
-- `usage`: Annual station usage statistics in 2017/18 released by the [ORR](https://dataportal.orr.gov.uk/statistics/usage/estimates-of-station-usage/)
+	This data is not shared here, because the user should download it from the ATOC website by creating a free login account.
+- `usage`: Annual station usage statistics in 2017/18 released by the [ORR](https://dataportal.orr.gov.uk/statistics/usage/estimates-of-station-usage/).
 - `network`: A GIS representation of the GB railway network of nodes and edges. The network shows the latest (2019 representation of all stations and routes in the network. Our own creation, using and cleaning raw data from open data resources like OSM, Ordance Survey open data.
 - `id_matches`: File that matches the ID columns between the ATOC, ORR and GIS network datasets. Our own creation. 
 
