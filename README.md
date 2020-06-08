@@ -38,6 +38,7 @@ Best to retain the same ID column names and data types in future data updates.
 ## References
 
 Request the user to cite the model's methodology described in the paper:
+
     Pant, R., Hall, J. W., & Blainey, S. P. (2016). 
     Vulnerability assessment framework for interdependent critical infrastructures: case-study for Great Britain’s rail network. 
     European Journal of Transport and Infrastructure Research, 16(1). 
