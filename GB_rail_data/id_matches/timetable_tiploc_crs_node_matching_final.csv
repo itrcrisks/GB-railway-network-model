@@ -1,0 +1,2651 @@
+tiploc,node_id,nodeid,station_name,tlc
+PENZNCE,railn_1553,1553,Penzance,PNZ
+STIVES,railn_3285,3285,St Ives,SIV
+CARBISB,railn_303,303,Carbis Bay,CBB
+STERTH,railn_1551,1551,St Erth,SER
+LELANTS,railn_302,302,Lelant Saltings,LTS
+LELANT,railn_301,301,Lelant,LEL
+HAYLE,railn_3372,3372,Hayle,HYL
+CBORNE,railn_3373,3373,Camborne,CBN
+ARISAIG,railn_2470,2470,Arisaig,ARG
+MLAIG,railn_1047,1047,Mallaig,MLG
+MORAR,railn_2159,2159,Morar,MRR
+REDRUTH,railn_2499,2499,Redruth,RED
+BEASDAL,railn_2469,2469,Beasdale,BSL
+KYLELSH,railn_3838,3838,Kyle of Lochalsh,KYL
+LCHALRT,railn_2471,2471,Lochailort,LCL
+DUIRNSH,railn_1601,1601,Duirinish,DRN
+PRYN,railn_3743,3743,Penryn,PYN
+PERANWL,railn_2500,2500,Perranwell,PRW
+PLOCKTN,railn_1599,1599,Plockton,PLK
+PENMERE,railn_3711,3711,Penmere,PNM
+FALMTHT,railn_3455,3455,Falmouth Town,FMT
+DUNCRAG,railn_1600,1600,Duncraig,DCG
+NEWQUAY,railn_3802,3802,Newquay,NQY
+TRURO,railn_2498,2498,Truro,TRU
+FALMTHD,railn_3454,3454,Falmouth Docks,FAL
+QNTRLDW,railn_2846,2846,Quintrel Downs,QUI
+OBAN,railn_225,225,Oban,OBN
+STRMFRY,railn_2410,2410,Stromeferry,STF
+GLNFNNN,railn_591,591,Glenfinnan,GLF
+MLFDHVN,railn_481,481,Milford Haven,MFH
+STCLMBR,railn_2845,2845,St Columb Road,SCR
+CONNELF,railn_226,226,Connel Ferry,CON
+ATADALE,railn_2059,2059,Attadale,ATT
+JHNSTND,railn_3483,3483,Johnston,JOH
+STCN,railn_1741,1741,Strathcarron,STC
+FGDHGWK,railn_4105,4105,Fishguard & Goodwick,FGW
+FGDHBR,railn_3798,3798,Fishguard Harbour,FGH
+HAVRFDW,railn_3482,3482,Haverfordwest,HVF
+PEMBRKD,railn_2729,2729,Pembroke Dock,PMD
+RCHE,railn_2847,2847,Roche,ROC
+PEMBROK,railn_1458,1458,Pembroke,PMB
+LCHESDE,railn_589,589,Locheilside,LCS
+ACHHSHL,railn_1740,1740,Achnashellach,ACH
+TAYNULT,railn_573,573,Taynuilt,TAY
+LAMPHEY,railn_1456,1456,Lamphey,LAM
+CLARBRD,railn_2135,2135,Clarbeston Road,CLR
+STAUSTL,railn_1949,1949,St Austell,SAU
+BUGLE,railn_2662,2662,Bugle,BGL
+LUXULYN,railn_1950,1950,Luxulyan,LUX
+LCEILOB,railn_590,590,Loch Eil Outward Bound,LHE
+STRNRR,railn_2753,2753,Stranraer,STR
+MNORBER,railn_1457,1457,Manorbier,MRB
+PARR,railn_1547,1547,Par,PAR
+FLSCRHN,railn_572,572,Falls of Cruachan,FOC
+CORPACH,railn_458,458,Corpach,CPA
+FRTWLM,railn_2715,2715,Fort William,FTW
+LSTWTHL,railn_1548,1548,Lostwithiel,LOS
+BODMNPW,railn_2057,2057,Bodmin Parkway,BOD
+BANAVIE,railn_456,456,Banavie,BNV
+PNALLY,railn_2900,2900,Penally,PNA
+CLYNDRW,railn_2137,2137,Clunderwen,CUW
+NRBERTH,railn_2691,2691,Narberth,NAR
+LOCHAWE,railn_574,574,Loch Awe,LHA
+SDRSFOT,railn_3139,3139,Saundersfoot,SDF
+KILGETY,railn_2693,2693,Kilgetty,KGT
+TENBY,railn_2901,2901,Tenby,TEN
+DLMALLY,railn_999,999,Dalmally,DAL
+ACHNSHN,railn_1742,1742,Achnasheen,ACN
+GIRVAN,railn_1412,1412,Girvan,GIR
+WEMYSSB,railn_3833,3833,Wemyss Bay,WMS
+WHLAND,railn_2086,2086,Whitland,WTL
+LARGS,railn_1566,1566,Largs,LAR
+INVERKP,railn_3737,3737,Inverkip,INP
+WKILBRD,railn_701,701,West Kilbride,WKB
+FAIRLIE,railn_1567,1567,Fairlie,FRL
+SPEANBD,railn_2771,2771,Spean Bridge,SBR
+ARDRSHB,railn_2274,2274,Ardrossan Harbour,ADS
+BRRHL,railn_1414,1414,Barrhill,BRL
+ARDRSTN,railn_2273,2273,Ardrossan Town,ADN
+IBMM,railn_3736,3736,IBM,IBM
+ARDRSSB,railn_3817,3817,Ardrossan South Beach,ASB
+COOMBE,railn_3581,3581,Coombe,COE
+GRLCHHD,railn_2501,2501,Garelochhead,GCH
+GOUROCK,railn_3149,3149,Gourock,GRK
+LISKARD,railn_2058,2058,Liskeard,LSK
+HLYH,railn_3630,3630,Holyhead,HHD
+CAUSLND,railn_3527,3527,Causeland,CAU
+SLCT,railn_3538,3538,Saltcoats,SLT
+SDPLACE,railn_657,657,Sandplace,SDP
+BRNCHTN,railn_3376,3376,Branchton,BCN
+STKEYNE,railn_3528,3528,St Keyne,SKN
+LOOE,railn_656,656,Looe,LOO
+FRTMTLD,railn_726,726,Fort Matilda,FTM
+ACHANLT,railn_3293,3293,Achanalt,AAT
+DRMFCHR,railn_1893,1893,Drumfrochar,DFR
+STVNSTN,railn_3537,3537,Stevenston,STV
+ROYBDGE,railn_3340,3340,Roy Bridge,RYB
+GRENCKW,railn_723,723,Greenock West,GKW
+GRENCKC,railn_1325,1325,Greenock Central,GKC
+WHINH,railn_1892,1892,Whinhill,WNL
+MENHENT,railn_3151,3151,Menheniot,MEN
+VALLEY,railn_3631,3631,Valley,VAL
+CRTSDYK,railn_1323,1323,Cartsdyke,CDY
+KILWNNG,railn_3261,3261,Kilwinning,KWN
+HLNSBRC,railn_1319,1319,Helensburgh Central,HLC
+DALRY,railn_3523,3523,Dalry,DLY
+MAYBOLE,railn_1413,1413,Maybole,MAY
+HLNSBRU,railn_255,255,Helensburgh Upper,HLU
+BOORCHY,railn_3591,3591,Bridge of Orchy,BRO
+BOGSTON,railn_1324,1324,Bogston,BGS
+CRGDRN,railn_257,257,Craigendoran,CGD
+ARCHRAT,railn_841,841,Arrochar & Tarbet,ART
+IRVN,railn_511,511,Irvine,IRV
+ARDLUI,railn_839,839,Ardlui,AUI
+PTGLSGW,railn_2440,2440,Port Glasgow,PTG
+GLGN,railn_1161,1161,Glengarnock,GLG
+LCHLCHR,railn_2022,2022,Lochluichart,LCC
+TROON,railn_3695,3695,Troon,TRN
+TYNDRML,railn_2126,2126,Tyndrum Lower,TYL
+RHOSNGR,railn_3839,3839,Rhosneigr,RHO
+BARASIE,railn_509,509,Barassie,BSS
+TYNDRMU,railn_3593,3593,Upper Tyndrum,UTY
+AYRR,railn_609,609,Ayr,AYR
+NWTOA,railn_3700,3700,Newton-on-Ayr,NOA
+WHHL,railn_2441,2441,Woodhall,WDL
+CDRS,railn_256,256,Cardross,CDR
+TYCROES,railn_1965,1965,Ty Croes,TYC
+PWCK,railn_2459,2459,Prestwick Town,PTW
+PWCKAPT,railn_2460,2460,Prestwick International Airport,PRA
+TULLOCH,railn_3339,3339,Tulloch,TUL
+CORROUR,railn_3341,3341,Corrour,CRR
+STGRMNS,railn_2203,2203,St Germans,SGM
+LCHWNCH,railn_1160,1160,Lochwinnoch,LHW
+FYSD,railn_2023,2023,Ferryside,FYS
+PWLHELI,railn_1385,1385,Pwllheli,PWL
+CRNLRCH,railn_840,840,Crianlarich,CNR
+LGBK,railn_2701,2701,Langbank,LGB
+BODORGN,railn_1964,1964,Bodorgan,BOR
+RENTON,railn_265,265,Renton,RTN
+BALLOCH,railn_3458,3458,Balloch,BHC
+DLREOCH,railn_1915,1915,Dalreoch,DLR
+ALXANDR,railn_266,266,Alexandria,ALX
+HOWOOD,railn_1162,1162,Howwood (Renfrewshire),HOZ
+GARVE,railn_991,991,Garve,GVE
+DMBRTNC,railn_3364,3364,Dumbarton Central,DBC
+KIDWELY,railn_2024,2024,Kidwelly,KWL
+ABRE,railn_1383,1383,Abererch,ABH
+DMBRTNE,railn_3716,3716,Dumbarton East,DBE
+KLMAURS,railn_683,683,Kilmaurs,KLM
+DNLP,railn_80,80,Dunlop,DNL
+CMTHN,railn_974,974,Carmarthen,CMN
+MILKNPK,railn_305,305,Milliken Park,MIN
+STEWRTN,railn_684,684,Stewarton,STT
+RANNOCH,railn_3592,3592,Rannoch,RAN
+KILMRNK,railn_3468,3468,Kilmarnock,KMK
+GUNISLK,railn_837,837,Gunnislake,GSL
+SASH,railn_2202,2202,Saltash,STS
+JOHNSTN,railn_304,304,Johnstone,JHN
+CALSTCK,railn_838,838,Calstock,CSK
+BISHPTN,railn_2700,2700,Bishopton,BPT
+BEREALS,railn_2907,2907,Bere Alston,BAS
+BOWLING,railn_3906,3906,Bowling,BWG
+STBDXVR,railn_1113,1113,St Budeaux Victoria Road,SBV
+STBDXFR,railn_1112,1112,St Budeaux Ferry Road,SBF
+PMBRYBP,railn_3374,3374,Pembrey & Burry Port,PBY
+KEYHAM,railn_168,168,Keyham,KEY
+BEREFRS,railn_2382,2382,Bere Ferrers,BFE
+DOCKYDP,railn_854,854,Dockyard,DOC
+DEVNPRT,railn_855,855,Devonport,DPT
+KLPTRCK,railn_1956,1956,Kilpatrick,KPT
+PSLYSTJ,railn_2702,2702,Paisley St James,PYJ
+PLYMTH,railn_3816,3816,Plymouth,PLY
+NEILSTN,railn_3082,3082,Neilston,NEI
+PSLYCAN,railn_1841,1841,Paisley Canal,PCN
+PSLYGST,railn_306,306,Paisley Gilmour Street,PYG
+DALMUIR,railn_1954,1954,Dalmuir,DMR
+CRICCTH,railn_1774,1774,Criccieth,CCC
+SINGER,railn_1957,1957,Singer,SIN
+CLYBANK,railn_2381,2381,Clydebank,CYK
+BRHD,railn_82,82,Barrhead,BRR
+HWKHEAD,railn_1842,1842,Hawkhead,HKH
+LLNLLI,railn_3237,3237,Llanelli,LLE
+YOKER,railn_3685,3685,Yoker,YOK
+DRUMRY,railn_3328,3328,Drumry,DMY
+HLNGTNW,railn_3172,3172,Hillington West,HLW
+BEAULY,railn_2258,2258,Beauly,BEL
+CROKSTN,railn_3048,3048,Crookston,CKT
+GSCD,railn_1092,1092,Garscadden,GRS
+NITSH,railn_3853,3853,Nitshill,NIT
+DRMCHPL,railn_2415,2415,Drumchapel,DMC
+LFPW,railn_1966,1966,Llanfairpwll,LPG
+HLNGTNE,railn_3585,3585,Hillington East,HLE
+MUROORD,railn_2257,2257,Muir of Ord,MOO
+SCTSTNH,railn_1091,1091,Scotstounhill,SCH
+MSSPARK,railn_3047,3047,Mosspark,MPK
+PHLD,railn_1924,1924,Priesthill & Darnley,PTL
+CDNL,railn_3584,3584,Cardonald,CDO
+PATERTN,railn_3083,3083,Patterton,PTT
+CKHL,railn_2359,2359,Corkerhill,CKH
+CONONBR,railn_4099,4099,Conon Bridge,CBD
+WESTRTN,railn_1207,1207,Westerton,WES
+BSDN,railn_2414,2414,Bearsden,BRN
+KENISHD,railn_1923,1923,Kennishead,KNS
+JORDANH,railn_133,133,Jordanhill,JOR
+ANSL,railn_3177,3177,Anniesland,ANL
+BYNEA,railn_1693,1693,Bynea,BYE
+ACHILCK,railn_2559,2559,Auchinleck,AUK
+HLFT,railn_3840,3840,Hillfoot,HLF
+THLB,railn_3828,3828,Thornliebank,THB
+WTCR,railn_3778,3778,Whitecraigs,WCR
+HYNDLND,railn_2386,2386,Hyndland,HYN
+DINGWAL,railn_992,992,Dingwall,DIN
+MLGV,railn_3936,3936,Milngavie,MLN
+BRNSTPL,railn_933,933,Barnstaple,BNP
+PTCK,railn_3354,3354,Partick,PTK
+DAWSHLM,railn_3543,3543,Kelvindale,KVD
+PLKSHWW,railn_3829,3829,Pollokshaws West,PWW
+DUMBRCK,railn_2358,2358,Dumbreck,DUM
+MRYHILL,railn_3787,3787,Maryhill,MYH
+TONFNAU,railn_3662,3662,Tonfanau,TNF
+GIFNOCK,railn_2538,2538,Giffnock,GFN
+LLGNNCH,railn_1695,1695,Llangennech,LLH
+WMWD,railn_3777,3777,Williamwood,WLM
+SHWLNDS,railn_2683,2683,Shawlands,SHL
+PRTHMDG,railn_1773,1773,Porthmadog,PTM
+MAXWLPK,railn_1853,1853,Maxwell Park,MAX
+SUMRSTN,railn_1559,1559,Summerston,SUM
+PLKSHWE,railn_2682,2682,Pollokshaws East,PWE
+CRSMYLF,railn_3729,3729,Crossmyloof,CMY
+LNDW,railn_2065,2065,Llandanwg,LDN
+EXHIBTC,railn_2464,2464,Exhibition Centre,EXG
+LAMBH,railn_887,887,Gilshochill,GSC
+CLRKSTN,railn_2537,2537,Clarkston,CKS
+LNSD,railn_308,308,Langside,LGS
+BANGOR,railn_3677,3677,Bangor,BNG
+MUIREND,railn_310,310,Muirend,MUI
+PLKLHDW,railn_1851,1851,Pollokshields West,PLW
+CULRAIN,railn_1598,1598,Culrain,CUA
+PSRN,railn_2063,2063,Pensarn (Gwynedd),PES
+LBDR,railn_2064,2064,Llanbedr,LBR
+ANDRSTN,railn_2462,2462,Anderston,AND
+INVRSHN,railn_2627,2627,Invershin,INH
+PLKLHDE,railn_1879,1879,Pollokshields East,PLE
+CHRNGXG,railn_2670,2670,Charing Cross (Glasgow),CHC
+CHAPLTN,railn_934,934,Chapelton,CPN
+HRLC,railn_2480,2480,Harlech,HRL
+QUNPARK,railn_1877,1877,Queens Park (Glasgow),QPK
+DYFRYNA,railn_3132,3132,Dyffryn Ardudwy,DYF
+BUSBY,railn_1171,1171,Busby,BUS
+TYWYN,railn_3663,3663,Tywyn,TYW
+LAIRG,railn_3755,3755,Lairg,LRG
+MTFL,railn_2821,2821,Mount Florida,MFL
+CCRT,railn_2955,2955,Cathcart,CCT
+ABRYSTH,railn_2411,2411,Aberystwyth,AYW
+TALB,railn_3875,3875,Talybont,TLB
+CROSSHL,railn_1878,1878,Crosshill,COI
+PNTADLS,railn_3164,3164,Pontarddulais,PTD
+GLGC,railn_2463,2463,Glasgow Central,GLC
+POSILPK,railn_885,885,Possilpark & Parkhouse,PPK
+THAL,railn_1169,1169,Thorntonhall,THT
+LYNGRIL,railn_3471,3471,Llwyngwril,LLW
+GLGQHL,railn_203,203,Glasgow Queen Street,GLQ
+ARGYLST,railn_2980,2980,Argyle Street,AGS
+OKHMPTN,railn_834,834,Okehampton,OKE
+GOWERTN,railn_1632,1632,Gowerton,GWN
+KGPK,railn_2355,2355,Kings Park,KGP
+ASFIELD,railn_886,886,Ashfield,ASF
+LNAB,railn_3874,3874,Llanaber,LLA
+GLGHST,railn_202,202,High Street (Glasgow),HST
+MINFORD,railn_1775,1775,Minffordd,MFF
+ARDGAY,railn_1597,1597,Ardgay,ARD
+TYGWYN,railn_2481,2481,Tygwyn,TYG
+CFFT,railn_2356,2356,Croftfoot,CFF
+SPRNGBN,railn_3067,3067,Springburn,SPR
+ABDVY,railn_3919,3919,Aberdovey,AVY
+BRIDGTN,railn_3327,3327,Bridgeton,BDG
+HARMYRS,railn_1170,1170,Hairmyres,HMY
+BLGRVE,railn_204,204,Bellgrove,BLG
+BORTH,railn_2412,2412,Borth,BRH
+UMBRLGH,railn_2695,2695,Umberleigh,UMB
+BSHB,railn_3043,3043,Bishopbriggs,BBG
+TLSRNAU,railn_2490,2490,Talsarnau,TAL
+BNHL,railn_2803,2803,Barnhill,BNL
+BRMOUTH,railn_3871,3871,Barmouth,BRM
+DLMRNOK,railn_3820,3820,Dalmarnock,DAK
+PRHN,railn_2491,2491,Penrhyndeudraeth,PRH
+RTHGLEN,railn_227,227,Rutherglen,RUT
+DUKEST,railn_1202,1202,Duke Street,DST
+FRBN,railn_3469,3469,Fairbourne,FRB
+ALXPD,railn_1203,1203,Alexandra Parade,AXP
+NWCMNCK,railn_237,237,New Cumnock,NCK
+LNDC,railn_2489,2489,Llandecwyn,LLC
+LLDYBIE,railn_664,664,Llandybie,LLI
+BRSDE,railn_3094,3094,Burnside,BUI
+PENHELG,railn_3792,3792,Penhelig,PHG
+PNTYFYN,railn_975,975,Pantyffynnon,PTF
+AMMANFD,railn_665,665,Ammanford,AMF
+SAMPCRT,railn_4117,4117,Sampford Courtenay,SMC
+MFAM,railn_3470,3470,Morfa Mawddach,MFA
+FFAIRFC,railn_214,214,Ffairfach,FFA
+PRTSMTA,railn_896,896,Portsmouth Arms,PMA
+EKILBRD,railn_2812,2812,East Kilbride,EKL
+LLDEILO,railn_213,213,Llandeilo,LLL
+DALWHIN,railn_3135,3135,Dalwhinnie,DLW
+CNTY,railn_888,888,Carntyne,CAY
+CMBSLNG,railn_3162,3162,Cambuslang,CBL
+KRKH,railn_3092,3092,Kirkhill,KKH
+IVYBDGE,railn_3756,3756,Ivybridge,IVY
+SHTLSTN,railn_889,889,Shettleston,SLS
+CARMYLE,railn_386,386,Carmyle,CML
+LENZIE,railn_3253,3253,Lenzie,LNZ
+SWANSEA,railn_1196,1196,Swansea,SWA
+ALNESS,railn_993,993,Alness,ASS
+STEPPS,railn_1839,1839,Stepps,SPS
+KNYMPTN,railn_894,894,Kings Nympton,KGN
+NWTL,railn_3016,3016,Newton (Lanarkshire),NTN
+MNTVRNN,railn_387,387,Mount Vernon,MTV
+IVRNESS,railn_2592,2592,Inverness,INV
+GARROWH,railn_1880,1880,Garrowhill,GAR
+BALISTN,railn_2408,2408,Baillieston,BIO
+LANFRFC,railn_3678,3678,Llanfairfechan,LLF
+ESHS,railn_1881,1881,Easterhouse,EST
+EGGESFD,railn_895,895,Eggesford,EGG
+BLANTYR,railn_3017,3017,Blantyre,BLT
+UDNGSTN,railn_3015,3015,Uddingston,UDD
+DOVYJN,railn_3705,3705,Dovey Junction,DVY
+LLNSMLT,railn_455,455,Llansamlet,LAS
+LLGADOG,railn_215,215,Llangadog,LLG
+BLAENAU,railn_749,749,Blaenau Ffestiniog,BFF
+GRTCSH,railn_1838,1838,Gartcosh,GRH
+BRGDDIE,railn_2409,2409,Bargeddie,BGI
+IVRGRD,railn_769,769,Invergordon,IGD
+HAMLTNW,railn_3735,3735,Hamilton West,HNW
+ROMANBG,railn_750,750,Roman Bridge,RMB
+LLWRDA,railn_2214,2214,Llanwrda,LNR
+NWTM,railn_1357,1357,Newtonmore,NWR
+PNMNMWR,railn_2941,2941,Penmaenmawr,PMW
+KRKWOOD,railn_2950,2950,Kirkwood,KWD
+HAMLTNC,railn_615,615,Hamilton Central,HNC
+BLAIRHL,railn_1417,1417,Blairhill,BAI
+SKEWEN,railn_1178,1178,Skewen,SKE
+ROGART,railn_2766,2766,Rogart,ROG
+LAPFORD,railn_2543,2543,Lapford,LAP
+COATBDC,railn_1635,1635,Coatbridge Central,CBC
+CROY,railn_2725,2725,Croy,CRO
+COATBDS,railn_1415,1415,Coatbridge Sunnyside,CBS
+BLSHL,railn_2540,2540,Bellshill,BLH
+KRKC,railn_239,239,Kirkconnel,KRK
+WHIFLET,railn_3289,3289,Whifflet,WFF
+DLWYDLN,railn_2242,2242,Dolwyddelan,DWD
+BRITFRY,railn_1477,1477,Briton Ferry,BNF
+CHTLRT,railn_616,616,Chatelherault,CTE
+MCHYNLT,railn_3669,3669,Machynlleth,MCN
+COATDYK,railn_1416,1416,Coatdyke,COA
+BGLAN,railn_3771,3771,Baglan,BAJ
+MOCHARD,railn_1486,1486,Morchard Road,MRD
+AIRBLES,railn_614,614,Airbles,AIR
+MOTHRWL,railn_1958,1958,Motherwell,MTH
+NEATH,railn_1179,1179,Neath,NTH
+PNYPANT,railn_2241,2241,Pont-y-Pant,PYP
+GRNFLDS,railn_3231,3231,Greenfaulds,GRL
+KGUSSIE,railn_1355,1355,Kingussie,KIN
+MRRYTON,railn_3090,3090,Merryton,MEY
+AIRDRIE,railn_1730,1730,Airdrie,ADR
+LARKHAL,railn_3091,3091,Larkhall,LRH
+LLDVERY,railn_2213,2213,Llandovery,LLV
+HOLYTWN,railn_3116,3116,Holytown,HLY
+CMBRNLD,railn_3230,3230,Cumbernauld,CUB
+COPLSTN,railn_1485,1485,Copplestone,COP
+PTALBOT,railn_2916,2916,Port Talbot Parkway,PTA
+SHILDMR,railn_1186,1186,Shieldmuir,SDM
+CARFIN,railn_3101,3101,Carfin,CRF
+DEGANWY,railn_910,910,Deganwy,DGY
+CONWY,railn_2940,2940,Conwy,CNW
+DUNANE,railn_1770,1770,Dunblane,DBL
+SANQHAR,railn_2075,2075,Sanquhar,SQH
+DRMGLCH,railn_1731,1731,Drumgelloch,DRU
+TAIN,railn_770,770,Tain,TAI
+DOLGARG,railn_379,379,Dolgarrog,DLG
+YEOFORD,railn_3720,3720,Yeoford,YEO
+LUDO,railn_912,912,Llandudno,LLD
+BGOALAN,railn_3762,3762,Bridge of Allan,BEA
+TALYCFN,railn_377,377,Tal-y-Cafn,TLC
+WISHAW,railn_2222,2222,Wishaw,WSH
+LANDUDJ,railn_1454,1454,Llandudno Junction,LLJ
+BETSYCD,railn_2243,2243,Betws-y-Coed,BYC
+NLANRST,railn_827,827,North Llanrwst,NLR
+STIRLNG,railn_2197,2197,Stirling,STG
+LNRWST,railn_828,828,Llanrwst,LWR
+TOTNES,railn_2588,2588,Totnes,TOT
+GLNCNWY,railn_378,378,Glan Conwy,GCW
+CYNGHRD,railn_2,2,Cynghordy,CYN
+CLELAND,railn_1872,1872,Cleland,CEA
+FEARN,railn_768,768,Fearn,FRN
+CLDRCRX,railn_3958,3958,Caldercruix,CAC
+PYLE,railn_1980,1980,Pyle,PYL
+GOLSPIE,railn_799,799,Golspie,GOL
+CRLK,railn_557,557,Carluke,CLU
+CREDITN,railn_281,281,Crediton,CDI
+SGRLOAF,railn_1,1,Sugar Loaf,SUG
+HRTW,railn_1871,1871,Hartwood,HTW
+DNROBIN,railn_798,798,Dunrobin Castle,DNO
+CBAY,railn_1824,1824,Colwyn Bay,CWB
+MAESTGW,railn_2623,2623,Maesteg,MST
+MAESTER,railn_3691,3691,Maesteg (Ewenny Road),MEW
+LARBERT,railn_2198,2198,Larbert,LBT
+KINBRAC,railn_1532,1532,Kinbrace,KBC
+GRTHMG,railn_3690,3690,Garth (Mid Glamorgan),GMG
+NABT,railn_2587,2587,Newton Abbot,NTA
+CAMELON,railn_3300,3300,Camelon,CMO
+BLARATH,railn_3878,3878,Blair Atholl,BLA
+SHTT,railn_517,517,Shotts,SHS
+NSTCYRE,railn_279,279,Newton St Cyres,NTC
+NAIRN,railn_1480,1480,Nairn,NRN
+FALKRKH,railn_2726,2726,Falkirk High,FKK
+LLWRTYW,railn_3,3,Llanwrtyd,LNW
+LANARK,railn_556,556,Lanark,LNK
+FALKRKG,railn_3301,3301,Falkirk Grahamston,FKG
+ALLOA,railn_622,622,Alloa,ALO
+PAIGNTN,railn_3837,3837,Paignton,PGN
+FORSNRD,railn_1533,1533,Forsinard,FRS
+TONDU,railn_3927,3927,Tondu,TDU
+AVIEMRE,railn_1356,1356,Aviemore,AVM
+SARN,railn_3173,3173,Sarn,SRR
+CARRBDG,railn_3022,3022,Carrbridge,CAG
+KILDONN,railn_1534,1534,Kildonan,KIL
+TORRE,railn_46,46,Torre,TRR
+WLDMILL,railn_1978,1978,Wildmill,WMI
+TORQUAY,railn_47,47,Torquay,TQY
+BLKRDGE,railn_3959,3959,Blackridge,BKR
+BRORA,railn_800,800,Brora,BRA
+BRGEND,railn_1979,1979,Bridgend,BGN
+EXETRSD,railn_2427,2427,Exeter St Davids,EXD
+EXETRST,railn_2426,2426,Exeter St Thomas,EXT
+EXETERC,railn_2425,2425,Exeter Central,EXC
+FAULDHS,railn_353,353,Fauldhouse,FLD
+STJAMSP,railn_1706,1706,St James' Park,SJP
+GLNEGLS,railn_1769,1769,Gleneagles,GLE
+POLMONT,railn_3847,3847,Polmont,PMT
+LLGMMRW,railn_193,193,Llangammarch,LLM
+PTLCHRY,railn_3877,3877,Pitlochry,PIT
+TREHRBT,railn_2818,2818,Treherbert,TRB
+ARMDALE,railn_3960,3960,Armadale,ARM
+POLSBDG,railn_1574,1574,Polsloe Bridge,POL
+TEINMTH,railn_1260,1260,Teignmouth,TGM
+ABGLELE,railn_1823,1823,Abergele & Pensarn,AGL
+YNYSWEN,railn_2817,2817,Ynyswen,YNW
+CRSTRS,railn_422,422,Carstairs,CRS
+GARTH,railn_191,191,Garth (Powys),GTH
+BREICH,railn_351,351,Breich,BRC
+TREORCY,railn_2067,2067,Treorchy,TRY
+PENCOED,railn_2430,2430,Pencoed,PCD
+DIGBY,railn_1576,1576,Digby & Sowton,DIG
+NWCOURT,railn_4115,4115,Newcourt,NCO
+DAWLISH,railn_1258,1258,Dawlish,DWL
+PINHOE,railn_1707,1707,Pinhoe,PIN
+TOPSHAM,railn_1806,1806,Topsham,TOP
+STBEES,railn_2707,2707,St Bees,SBS
+LLNWTMR,railn_3750,3750,Llantwit Major,LWM
+TONPNTR,railn_2066,2066,Ton Pentre,TPN
+WHITHVN,railn_2964,2964,Whitehaven,WTH
+DUMFRES,railn_224,224,Dumfries,DMF
+STRCROS,railn_3218,3218,Starcross,SCS
+CRCK,railn_2708,2708,Corkickle,CKL
+BTHGATE,railn_1937,1937,Bathgate,BHG
+PARTON,railn_2963,2963,Parton,PRN
+DAWLSHW,railn_1259,1259,Dawlish Warren,DWW
+EXTON,railn_3921,3921,Exton,EXN
+LYMPSTC,railn_3915,3915,Lympstone Commando,LYC
+NETHRTN,railn_2709,2709,Nethertown,NRT
+YTRHOND,railn_1234,1234,Ystrad Rhondda,YSR
+LYMPSTN,railn_3574,3574,Lympstone Village,LYM
+HNGT,railn_25,25,Harrington,HRR
+ADIEWEL,railn_352,352,Addiewell,ADW
+LLWYNYP,railn_1233,1233,Llwynypia,LLY
+WKNT,railn_23,23,Workington,WKG
+TNYPNDY,railn_1235,1235,Tonypandy,TNP
+CBRK,railn_4101,4101,Cranbrook,CBK
+EXMOUTH,railn_3573,3573,Exmouth,EXM
+BRYSTNS,railn_485,485,Braystones,BYS
+LLHARAN,railn_4112,4112,Llanharan,LLR
+ALTNBRC,railn_2385,2385,Altnabreac,ABC
+ABDARE,railn_57,57,Aberdare,ABA
+CILMERY,railn_192,192,Cilmeri,CIM
+LNLTHGW,railn_2732,2732,Linlithgow,LIN
+DINASR,railn_3448,3448,Dinas Rhondda,DMG
+RHYL,railn_1825,1825,Rhyl,RHL
+WCALDER,railn_2147,2147,West Calder,WCL
+FLIMBY,railn_24,24,Flimby,FLM
+SELAFLD,railn_483,483,Sellafield,SEL
+HELMSDL,railn_1322,1322,Helmsdale,HMS
+CMBH,railn_56,56,Cwmbach,CMH
+BUILTHR,railn_1704,1704,Builth Road,BHR
+PORH,railn_3604,3604,Porth,POR
+CARSWS,railn_2809,2809,Caersws,CWS
+FORRES,railn_1478,1478,Forres,FOR
+DUNKELD,railn_3686,3686,Dunkeld & Birnam,DKD
+PONYCLN,railn_3266,3266,Pontyclun,PYC
+LVNSTNN,railn_1938,1938,Livingston North,LSN
+FERNHIL,railn_58,58,Fernhill,FER
+SEASCAL,railn_484,484,Seascale,SSC
+MPRT,railn_3027,3027,Maryport,MRY
+TREHAFD,railn_2757,2757,Trehafod,TRH
+TIVIPW,railn_2918,2918,Tiverton Parkway,TVP
+WHIMPLE,railn_3105,3105,Whimple,WHM
+MASH,railn_1836,1836,Mountain Ash,MTA
+MERTHYR,railn_3554,3554,Merthyr Tydfil,MER
+LLDODW,railn_1705,1705,Llandrindod,LLO
+PNTRBCH,railn_3553,3553,Pentre-Bach,PTB
+PNRHCBR,railn_2894,2894,Penrhiwceiber,PER
+LVNSTNS,railn_1225,1225,Livingston South,LVG
+RHOOSE,railn_3774,3774,Rhoose Cardiff International Airport,RIA
+UPHALL,railn_3696,3696,Uphall,UHA
+DRIGG,railn_1664,1664,Drigg,DRI
+PSTA,railn_2293,2293,Prestatyn,PRT
+TRDYRHW,railn_3128,3128,Troed-y-rhiw,TRD
+PTYPRID,railn_2630,2630,Pontypridd,PPD
+MERTHRV,railn_3126,3126,Merthyr Vale,MEV
+ABRCYNS,railn_2895,2895,Abercynon North,ACY
+TREFRST,railn_1729,1729,Trefforest,TRF
+RGLS,railn_1665,1665,Ravenglass for Eskdale,RAV
+QUAKRSY,railn_3127,3127,Quakers Yard,QYD
+BOOTLE,railn_2931,2931,Bootle,BOC
+FENITON,railn_3861,3861,Feniton,FNT
+SCSCLDR,railn_2384,2384,Scotscalder,SCT
+DNFRMLE,railn_2254,2254,Dunfermline Queen Margaret,DFE
+PYBONT,railn_390,390,Pen-y-bont,PNY
+KRKNWTN,railn_1189,1189,Kirknewton,KKN
+TRFRSTE,railn_1727,1727,Trefforest Estate,TRE
+BARRY,railn_663,663,Barry,BRY
+NWTP,railn_2808,2808,Newtown (Powys),NWT
+RHYMNEY,railn_1592,1592,Rhymney,RHY
+ROSYTH,railn_3234,3234,Rosyth,ROS
+PERTH,railn_3504,3504,Perth,PTH
+THURSO,railn_3518,3518,Thurso,THS
+BARRYIS,railn_1042,1042,Barry Island,BYI
+DNFRMQM,railn_2255,2255,Dunfermline Town,DFL
+PNTLTYN,railn_1590,1590,Pontlottyn,PLT
+BARRYDK,railn_661,661,Barry Docks,BYD
+TAFFSWL,railn_1728,1728,Taffs Well,TAF
+IVRKTHG,railn_3590,3590,Inverkeithing,INK
+SILCRFT,railn_3535,3535,Silecroft,SIC
+NQNSFRY,railn_842,842,North Queensferry,NQU
+CADOXTN,railn_783,783,Cadoxton,CAD
+RADYR,railn_2902,2902,Radyr,RDR
+LCKRBIE,railn_423,423,Lockerbie,LOC
+DLMY,railn_843,843,Dalmeny,DAM
+DOLAU,railn_389,389,Dolau,DOL
+TIRPHIL,railn_1591,1591,Tir-Phil,TIR
+YSTRADM,railn_3315,3315,Ystrad Mynach,YSM
+ASPTRIA,railn_2802,2802,Aspatria,ASP
+FRWATER,railn_1529,1529,Fairwater,FRW
+DANESCT,railn_1530,1530,Danescourt,DCT
+CORYTON,railn_647,647,Coryton,COY
+LLBRDCH,railn_3314,3314,Llanbradach,LNB
+WAUNGRN,railn_1531,1531,Waun-gron Park,WNG
+LLANDAF,railn_3510,3510,Llandaf,LLN
+ABER,railn_3316,3316,Aber,ABE
+DALGETY,railn_1890,1890,Dalgety Bay,DAG
+ERGNCHP,railn_4104,4104,Energlyn & Churchill Park,ECP
+PENGAM,railn_343,343,Pengam,PGM
+BARGOED,railn_344,344,Bargoed,BGD
+BRITHDR,railn_2264,2264,Brithdir,BHD
+WHCH,railn_3776,3776,Whitchurch (Cardiff),WHT
+GLFCHFR,railn_342,342,Gilfach Fargoed,GFF
+DINASP,railn_3586,3586,Dinas Powys,DNS
+HENGOED,railn_903,903,Hengoed,HNG
+GRGMASJ,railn_370,370,Georgemas Junction,GGJ
+CRPHLY,railn_399,399,Caerphilly,CPH
+RHIWBNA,railn_3857,3857,Rhiwbina,RHI
+EASTBRK,railn_2722,2722,Eastbrook,EBK
+HONITON,railn_3859,3859,Honiton,HON
+CWDNBTH,railn_2256,2256,Cowdenbeath,COW
+NINIANP,railn_1682,1682,Ninian Park,NNP
+BCHGRV,railn_189,189,Birchgrove,BCG
+TYGLAS,railn_188,188,Ty Glas,TGS
+EBWVTN,railn_520,520,Ebbw Vale Town,EBB
+MLLM,railn_3431,3431,Millom,MLM
+LLBSTRD,railn_391,391,Llanbister Road,LLT
+GNTN,railn_2526,2526,Grangetown,GTN
+COGAN,railn_2527,2527,Cogan,CGN
+EBWVPWY,railn_518,518,Ebbw Vale Parkway,EBV
+EDINGWY,railn_4103,4103,Edinburgh Gateway,EGY
+CURRIEH,railn_1190,1190,Curriehill,CUH
+LTHH,railn_397,397,Lisvane & Thornhill,LVT
+DGLROAD,railn_1804,1804,Dingle Road,DGL
+HEATHLL,railn_190,190,Heath Low Level,HLL
+LLISHEN,railn_398,398,Llanishen,LLS
+HEATHHL,railn_3703,3703,Heath High Level,HHL
+CRDFCEN,railn_1038,1038,Cardiff Central,CDF
+CATHAYS,railn_2448,2448,Cathays,CYS
+EDINPRK,railn_3827,3827,Edinburgh Park,EDP
+PENARTH,railn_1803,1803,Penarth,PEN
+LCHGLLY,railn_2308,2308,Lochgelly,LCG
+CARDFQS,railn_2447,2447,Cardiff Queen Street,CDQ
+STHGYLE,railn_1579,1579,South Gyle,SGL
+GREENRD,railn_1700,1700,Green Road,GNR
+CARDFBR,railn_3044,3044,Cardiff Bay,CDB
+ABDO,railn_22,22,Aberdour,AUR
+ANNAN,railn_222,222,Annan,ANN
+WHAILES,railn_1465,1465,Wester Hailes,WTA
+BAROW,railn_74,74,Barrow-in-Furness,BIF
+FOXFILD,railn_1142,1142,Foxfield,FOX
+LLGUNLO,railn_802,802,Llangynllo,LGO
+KNGW,railn_1464,1464,Kingsknowe,KGE
+NBRWGE,railn_2114,2114,Newbridge,NBE
+WKIRBY,railn_3357,3357,West Kirby,WKI
+ASKAM,railn_73,73,Askam,ASK
+LLHLETH,railn_519,519,Llanhilleth,LTH
+CDND,railn_1377,1377,Cardenden,CDD
+HOYLAKE,railn_3358,3358,Hoylake,HYK
+ELGIN,railn_2509,2509,Elgin,ELG
+ROOSE,railn_1837,1837,Roose,ROO
+CRSKEYS,railn_3487,3487,Crosskeys,CKY
+MNRD,railn_3757,3757,Manor Road,MNR
+SLATEFD,railn_1010,1010,Slateford,SLA
+KRKBYIF,railn_1141,1141,Kirkby-in-Furness,KBF
+TAUNTON,railn_2917,2917,Taunton,TAU
+WELSHPL,railn_2368,2368,Welshpool,WLP
+DALTON,railn_1764,1764,Dalton,DLT
+BISLND,railn_20,20,Burntisland,BTS
+MELS,railn_3758,3758,Meols,MEO
+HAYMRKT,railn_503,503,Haymarket,HYM
+RISCA,railn_3488,3488,Risca & Pontymister,RCA
+FLINT,railn_1229,1229,Flint,FLN
+WIGTON,railn_2801,2801,Wigton,WGT
+KNUCKLS,railn_801,801,Knucklas,KNU
+EDINBUR,railn_501,501,Edinburgh,EDB
+MOTO,railn_1702,1702,Moreton (Merseyside),MRT
+ROGRSTN,railn_3801,3801,Rogerstone,ROR
+KGHN,railn_21,21,Kinghorn,KGH
+LEASOWE,railn_1701,1701,Leasowe,LSW
+KCLD,railn_1666,1666,Kirkcaldy,KDY
+PYECRNR ,railn_1359,1359,Pye Corner,PYE
+UPTON,railn_3808,3808,Upton,UPT
+BDSTON,railn_3809,3809,Bidston,BID
+ULVRSTN,railn_1763,1763,Ulverston,ULV
+CHIRK,railn_1299,1299,Chirk,CRK
+HESWALL,railn_3564,3564,Heswall,HSW
+WALAGRD,railn_1777,1777,Wallasey Grove Road,WLG
+WALASYV,railn_2170,2170,Wallasey Village,WLV
+KNIGHTN,railn_249,249,Knighton,KNI
+FRSHFLD,railn_1447,1447,Freshfield,FRE
+GLNRTHS,railn_1376,1376,Glenrothes With Thornton,GLT
+FORMBY,railn_2620,2620,Formby,FBY
+NESTON,railn_2467,2467,Neston,NES
+AXMNSTR,railn_3860,3860,Axminster,AXM
+BCKY,railn_1845,1845,Buckley,BCK
+PNYF,railn_1843,1843,Penyffordd,PNF
+BRKNHDN,railn_1738,1738,Birkenhead North,BKN
+CWMBRAN,railn_207,207,Cwmbran,CWM
+MKIN,railn_2609,2609,Markinch,MNC
+PONTYPL,railn_205,205,Pontypool & New Inn,PPL
+HITN,railn_2619,2619,Hightown,HTO
+RUABON,railn_346,346,Ruabon,RUA
+GOBOWEN,railn_1237,1237,Gobowen,GOB
+HALLRD,railn_2621,2621,Hall Road,HLR
+NBTN,railn_1776,1776,New Brighton,NBN
+ABRGVNY,railn_206,206,Abergavenny,AGV
+LADYBNK,railn_448,448,Ladybank,LDY
+BLCKPB,railn_2548,2548,Blackpool Pleasure Beach,BPB
+HOPC,railn_1844,1844,Hope (Flintshire),HPE
+SHOTTON,railn_1228,1228,Shotton,SHT
+NWPTRTG,railn_3902,3902,Newport (South Wales),NWP
+BRDGWTR,railn_3117,3117,Bridgwater,BWT
+SHOTTHL,railn_1228,1228,Shotton,SHT
+SQUIRES,railn_580,580,Squires Gate,SQU
+CAERGWL,railn_1865,1865,Caergwrle,CGW
+BRKNHDP,railn_1737,1737,Birkenhead Park,BKP
+BLCKS,railn_3628,3628,Blackpool South,BPS
+BLCKPLN,railn_2659,2659,Blackpool North,BPN
+CEFNYBD,railn_1866,1866,Cefn-y-Bedd,CYB
+BLNDLAC,railn_3264,3264,Blundellsands & Crosby,BLN
+AINSDAL,railn_1446,1446,Ainsdale,ANS
+HAWARDN,railn_1295,1295,Hawarden,HWD
+HAWDNBG,railn_1294,1294,Hawarden Bridge,HWB
+BRUSTAN,railn_2473,2473,Brunstane,BSU
+GWRSYLT,railn_2742,2742,Gwersyllt,GWE
+NCRAGHA,railn_1766,1766,Newcraighall,NEW
+GRETGRN,railn_223,223,Gretna Green,GEA
+WLOO,railn_3661,3661,Waterloo (Merseyside),WLO
+BRKNCPK,railn_1739,1739,Conway Park,CNP
+HGHBRDG,railn_2081,2081,Highbridge & Burnham,HIG
+BRKNHDC,railn_1287,1287,Birkenhead Central,BKC
+STAS,railn_579,579,St Annes-on-the-Sea,SAS
+LAYTON,railn_2246,2246,Layton,LAY
+HILLSID,railn_1448,1448,Hillside,HIL
+ESKBANK,railn_4000,4000,Eskbank,EKB
+WSMARE,railn_2080,2080,Weston-super-Mare,WSM
+GNLN,railn_3636,3636,Green Lane,GNL
+SHWFAIR,railn_4004,4004,Shawfair,SFI
+HAMTSQ,railn_897,897,Hamilton Square,BKQ
+ROCKFRY,railn_3594,3594,Rock Ferry,RFY
+WREXHMG,railn_345,345,Wrexham General,WRX
+BKDLE,railn_3051,3051,Birkdale,BDL
+MSELBGH,railn_1409,1409,Musselburgh,MUB
+WREXHMC,railn_2665,2665,Wrexham Central,WXC
+NWTGRNG,railn_4003,4003,Newtongrange,NEG
+BEBNGTN,railn_3150,3150,Bebington,BEB
+SFRTHAL,railn_2938,2938,Seaforth & Litherland,SFL
+PSLT,railn_162,162,Port Sunlight,PSL
+SOUTHPT,railn_3049,3049,Southport,SOP
+SPITAL,railn_160,160,Spital,SPI
+BOOTLOR,railn_2401,2401,Bootle Oriel Road,BOT
+BOOTLNS,railn_2772,2772,Bootle New Strand,BNW
+JAMESST,railn_898,898,Liverpool James Street,LVJ
+BRMBRK,railn_161,161,Bromborough Rake,BMR
+SANDH,railn_2428,2428,Sandhills,SDL
+MORFLDS,railn_2300,2300,Liverpool Moorfields,MRF
+MORFNL,railn_2300,2300,Liverpool Moorfields,MRF
+BRMB,railn_971,971,Bromborough,BOM
+WMILTON,railn_3500,3500,Weston Milton,WNM
+BNKHALL,railn_2400,2400,Bank Hall,BAH
+GOREBRG,railn_4002,4002,Gorebridge,GBG
+ANSDELL,railn_581,581,Ansdell & Fairhaven,AFV
+ESTHRAK,railn_972,972,Eastham Rake,ERA
+KRKDALE,railn_1133,1133,Kirkdale,KKD
+PLTNLFY,railn_2247,2247,Poulton-le-Fylde,PFY
+INVGWRE,railn_2035,2035,Invergowrie,ING
+SPFD,railn_130,130,Springfield,SPF
+HOOTON,railn_1239,1239,Hooton,HOO
+LVRPLCH,railn_326,326,Liverpool Central,LVC
+LVRPLCL,railn_326,326,Liverpool Central,LVC
+LVRPLSH,railn_273,273,Liverpool Lime Street,LIV
+BNWK,railn_325,325,Brunswick,BRW
+BKNELL,railn_247,247,Bucknell,BUK
+MEOLSCP,railn_3050,3050,Meols Cop,MEC
+WALTONM,railn_1132,1132,Walton (Merseyside),WAO
+WICK,railn_369,369,Wick,WCK
+ORELPKH,railn_2995,2995,Orrell Park,OPK
+RICELA,railn_1134,1134,Rice Lane,RIL
+LYTHAM,railn_1321,1321,Lytham,LTM
+CARK,railn_1765,1765,Cark,CAK
+DALSTON,railn_2680,2680,Dalston,DLS
+AINTREE,railn_2793,2793,Aintree,AIN
+WALLYFD,railn_1411,1411,Wallyford,WAF
+STMCHLS,railn_327,327,St Michaels,STM
+WORLE,railn_3342,3342,Worle,WOR
+OLDROAN,railn_2794,2794,Old Roan,ORN
+EDGH,railn_272,272,Edge Hill,EDG
+LTLSUTN,railn_445,445,Little Sutton,LTT
+CPNHRST,railn_1370,1370,Capenhurst,CPU
+CUPAR,railn_132,132,Cupar,CUP
+FAZKRLY,railn_461,461,Fazakerley,FAZ
+MSSD,railn_3621,3621,Moss Side,MOS
+HOPTONH,railn_248,248,Hopton Heath,HPT
+MAGHULL,railn_1195,1195,Maghull,MAG
+AIGBURT,railn_1762,1762,Aigburth,AIG
+OPOL,railn_446,446,Overpool,OVE
+WVRTTEC,railn_2690,2690,Wavertree Technology Park,WAV
+MSLH,railn_3198,3198,Mossley Hill,MSH
+PPAN,railn_2752,2752,Prestonpans,PST
+CRSNGTN,railn_2188,2188,Cressington,CSG
+BESCRLA,railn_2018,2018,Bescar Lane,BES
+KTBK,railn_1353,1353,Kents Bank,KBK
+WALERTN,railn_3197,3197,West Allerton,WSA
+BROOME,railn_2984,2984,Broome,BME
+TOWNGRN,railn_1193,1193,Town Green,TWN
+KKBY,railn_459,459,Kirkby,KIR
+CARLILE,railn_3530,3530,Carlisle,CAR
+DUNDETB,railn_2034,2034,Dundee,DEE
+HEYMST,railn_1519,1519,Heysham Port,HHB
+ELSMPRT,railn_165,165,Ellesmere Port,ELP
+BACHE,railn_1157,1157,Bache,BAC
+BROADGR,railn_3624,3624,Broad Green,BGE
+AGHTNPH,railn_1194,1194,Aughton Park,AUG
+LVRPSPY,railn_2187,2187,Liverpool South Parkway,LPY
+ALERTN,railn_2187,2187,Liverpool South Parkway,LPY
+GOVS,railn_1352,1352,Grange-over-Sands,GOS
+CHST,railn_1159,1159,Chester,CTR
+WMER,railn_2507,2507,Windermere,WDM
+ORMSKRK,railn_312,312,Ormskirk,OMS
+KIRKHAM,railn_1873,1873,Kirkham & Wesham,KKM
+YATTON,railn_2911,2911,Yatton,YAT
+NEWLANE,railn_2016,2016,New Lane,NLN
+KEITH,railn_2508,2508,Keith,KEH
+HUNTSX,railn_3544,3544,Hunts Cross,HNX
+CRAVENA,railn_415,415,Craven Arms,CRV
+ROBY,railn_625,625,Roby,ROB
+MORCAME,railn_908,908,Morecambe,MCM
+STNLWAT,railn_163,163,Stanlow & Thornton,SNT
+HUYTON,railn_15,15,Huyton,HUY
+BRSCGHB,railn_2017,2017,Burscough Bridge,BCB
+BRSCGHJ,railn_311,311,Burscough Junction,BCJ
+LNGNDRY,railn_65,65,Longniddry,LND
+HALW,railn_3332,3332,Halewood,HED
+LEUCHRS,railn_2033,2033,Leuchars (for St Andrews),LEU
+CRKRN,railn_2423,2423,Crewkerne,CKN
+BARELA,railn_1518,1518,Bare Lane,BAR
+CSTR,railn_417,417,Church Stretton,CTT
+INEL,railn_164,164,Ince & Elton,INE
+STOW,railn_4005,4005,Stow,SOI
+ARNSIDE,railn_1354,1354,Arnside,ARN
+SEVTNLJ,railn_689,689,Severn Tunnel Junction,STJ
+SALWICK,railn_1875,1875,Salwick,SLW
+BRFRY,railn_3163,3163,Broughty Ferry,BYF
+RUFDORD,railn_313,313,Rufford,RUF
+WETHERL,railn_3849,3849,Wetheral,WRL
+HOSCAR,railn_3268,3268,Hoscar,HSC
+STAVELY,railn_2505,2505,Staveley (Cumbria),SVL
+PRESCOT,railn_14,14,Prescot,PSC
+WHISTON,railn_13,13,Whiston,WHN
+LANCSTR,railn_110,110,Lancaster,LAN
+CDCOT,railn_688,688,Caldicot,CDT
+SDAL,railn_2210,2210,Silverdale,SVR
+RNFD,railn_460,460,Rainford,RNF
+NAILSEA,railn_2909,2909,Nailsea & Backwell,NLS
+ECPK,railn_3689,3689,Eccleston Park,ECL
+BALMOSS,railn_3494,3494,Balmossie,BSI
+HOUGHGR,railn_3331,3331,Hough Green,HGN
+HELSBY,railn_3065,3065,Helsby,HSB
+CROT,railn_3449,3449,Croston,CSO
+PARBOLD,railn_3502,3502,Parbold,PBL
+RHIL,railn_1393,1393,Rainhill,RNH
+GALASLS,railn_4001,4001,Galashiels,GAL
+SHRWBY,railn_756,756,Shrewsbury,SHR
+THHT,railn_3688,3688,Thatto Heath,THH
+CRNF,railn_862,862,Carnforth,CNF
+MONIFTH,railn_2330,2330,Monifieth,MON
+LEOMNST,railn_995,995,Leominster,LEO
+BNSD,railn_2506,2506,Burneside,BUD
+YORTON,railn_1238,1238,Yorton,YRT
+ARMTHWT,railn_3895,3895,Armathwaite,AWT
+RUNCORN,railn_599,599,Runcorn,RUN
+UPHOLND,railn_3845,3845,Upholland,UPL
+DREMJ,railn_63,63,Drem,DRM
+PNTH,railn_2755,2755,Penrith North Lakes,PNR
+MLDSWTH,railn_3582,3582,Mouldsworth,MLD
+WIDNES,railn_734,734,Widnes,WID
+LUDLOW,railn_2985,2985,Ludlow,LUD
+HEREFRD,railn_996,996,Hereford,HFD
+AVONMTH,railn_3120,3120,Avonmouth,AVN
+STHLNSC,railn_2151,2151,St Helens Central,SNH
+WEMM,railn_1428,1428,Wem,WEM
+SADWRD,railn_3122,3122,St Andrews Road,SAR
+FRDSHM,railn_1489,1489,Frodsham,FRD
+LEGR,railn_1585,1585,Lea Green,LEG
+KENDAL,railn_3505,3505,Kendal,KEN
+TWDBANK,railn_3999,3999,Tweedbank,TWB
+APLYBDG,railn_3501,3501,Appley Bridge,APB
+SHAMPTN,railn_3121,3121,Shirehampton,SHH
+ORRELL,railn_3846,3846,Orrell,ORR
+OXENHLM,railn_2209,2209,Oxenholme Lake District,OXN
+PRST,railn_681,681,Preston,PRE
+HNTL,railn_3885,3885,Huntly,HNT
+STHLNSJ,railn_1586,1586,St Helens Junction,SHJ
+CHEPSTW,railn_2976,2976,Chepstow,CPW
+PREES,railn_1426,1426,Prees,PRS
+SVRNBCH,railn_3638,3638,Severn Beach,SVB
+GATHRST,railn_876,876,Gathurst,GST
+BRRYLNK,railn_2328,2328,Barry Links,BYL
+NBERWCK,railn_3522,3522,North Berwick,NBW
+LEYLAND,railn_3424,3424,Leyland,LEY
+LSTH,railn_3030,3030,Lostock Hall,LOH
+LAZKRKO,railn_3702,3702,Lazonby & Kirkoswald,LZB
+SEMILLS,railn_3288,3288,Sea Mills,SML
+WCHR,railn_1427,1427,Whitchurch (Shropshire),WTC
+BRMPTNC,railn_2178,2178,Brampton (Cumbria),BMP
+GARW,railn_3747,3747,Garswood,GSW
+DELAMER,railn_3269,3269,Delamere,DLM
+PBRT,railn_875,875,Pemberton,PEM
+EUXT,railn_1438,1438,Euxton Balshaw Lane,EBA
+RUNCRNE,railn_1490,1490,Runcorn East,RUE
+GOLFSTR,railn_2329,2329,Golf Street,GOF
+CHORBUK,railn_4097,4097,Buckshaw Parkway,BSV
+BMBRBDG,railn_3118,3118,Bamber Bridge,BMB
+CNST,railn_2157,2157,Carnoustie,CAN
+PILNING,railn_2298,2298,Pilning,PIL
+SANKEY,railn_732,732,Sankey for Penketh,SNK
+YOVILPM,railn_553,553,Yeovil Pen Mill,YVP
+YOVILJN,railn_1016,1016,Yeovil Junction,YVJ
+BRYN,railn_1612,1612,Bryn,BYN
+LWBY,railn_3701,3701,Langwathby,LGW
+CLFDOWN,railn_2454,2454,Clifton Down,CFN
+ERLSTWN,railn_891,891,Earlestown,ERL
+PARSNST,railn_3209,3209,Parson Street,PSN
+WIGANNW,railn_1439,1439,Wigan North Western,WGN
+WIGANWL,railn_874,874,Wigan Wallgate,WGW
+REDLAND,railn_2452,2452,Redland,RDA
+CHORLEY,railn_1809,1809,Chorley,CRL
+BDMNSTR,railn_3208,3208,Bedminster,BMT
+MONPELR,railn_2453,2453,Montpelier,MTP
+NWTNLW,railn_1139,1139,Newton-le-Willows,NLW
+THFORD,railn_2511,2511,Thornford,THO
+INCE,railn_3438,3438,Ince,INC
+BRSTLTM,railn_53,53,Bristol Temple Meads,BRI
+YTMNSTR,railn_3683,3683,Yetminster,YET
+CHETNOL,railn_1243,1243,Chetnole,CNO
+ACBG,railn_3159,3159,Acton Bridge,ACB
+MDNNWTN,railn_1241,1241,Maiden Newton,MDN
+WRGTNBQ,railn_601,601,Warrington Bank Quay,WBQ
+CUDNGTN,railn_2837,2837,Cuddington,CUD
+WRENBRY,railn_2607,2607,Wrenbury,WRE
+ADNL,railn_1807,1807,Adlington (Lancashire),ADL
+WRGT,railn_733,733,Warrington Central,WAC
+STPLTNR,railn_3353,3353,Stapleton Road,SRD
+LAWRNCH,railn_1889,1889,Lawrence Hill,LWH
+FILTNEW,railn_2545,2545,Filton Abbey Wood,FIT
+PATCHWY,railn_3848,3848,Patchway,PWY
+WENNGTN,railn_109,109,Wennington,WNN
+HINDLEY,railn_1963,1963,Hindley,HIN
+BLRD,railn_1808,1808,Blackrod,BLK
+BRSTPWY,railn_2544,2544,Bristol Parkway,BPW
+INSCH,railn_3886,3886,Insch,INS
+PADGATE,railn_3143,3143,Padgate,PDG
+HARTFD,railn_649,649,Hartford,HTF
+LYDNEY,railn_2974,2974,Lydney,LYD
+CCARY,railn_552,552,Castle Cary,CLC
+ARBROTH,railn_2156,2156,Arbroath,ARB
+SHERBRN,railn_1015,1015,Sherborne,SHE
+PLSNGTN,railn_1049,1049,Pleasington,PLS
+HORWICH,railn_2321,2321,Horwich Parkway,HWI
+GBNK,railn_2838,2838,Greenbank,GBK
+WELNGTN,railn_1689,1689,Wellington (Shropshire),WLN
+BIRCHWD,railn_3532,3532,Birchwood,BWD
+NANTWCH,railn_2882,2882,Nantwich,NAN
+WSTHOTN,railn_1962,1962,Westhoughton,WHG
+KEYNSHM,railn_3064,3064,Keynsham,KYN
+CHTR,railn_1048,1048,Cherry Tree,CYT
+DAISYH,railn_1961,1961,Daisy Hill,DSY
+BNTHAM,railn_107,107,Bentham,BEN
+NTHWICH,railn_362,362,Northwich,NWI
+MLHL,railn_1050,1050,Mill Hill (Lancashire),MLH
+WNSFD,railn_651,651,Winsford,WSF
+UPWEY,railn_3892,3892,Upwey,UPW
+HAGFOLD,railn_2149,2149,Hag Fold,HGF
+LOSTCKP,railn_3239,3239,Lostock,LOT
+WEYMTH,railn_3418,3418,Weymouth,WEY
+DUNBAR,railn_2796,2796,Dunbar,DUN
+ATHERTN,railn_2148,2148,Atherton,ATN
+BLKB,railn_1175,1175,Blackburn,BBN
+RMSWILP,railn_1177,1177,Ramsgreave & Wilpshire,RGW
+APBY,railn_1252,1252,Appleby,APP
+BRUTON,railn_789,789,Bruton,BRU
+DRCHW,railn_1242,1242,Dorchester West,DCW
+LSTG,railn_1610,1610,Lostock Gralam,LTG
+DRCHS,railn_3142,3142,Dorchester South,DCH
+DARWEN,railn_3147,3147,Darwen,DWN
+GLAZBRK,railn_3531,3531,Glazebrook,GLZ
+OAKNGTS,railn_1688,1688,Oakengates,OKN
+YATE,railn_322,322,Yate,YAE
+TELFRDC,railn_1690,1690,Telford Central,TFC
+HLTWHST,railn_2177,2177,Haltwhistle,HWH
+LGHO,railn_3282,3282,Langho,LHO
+TMPCMB,railn_1017,1017,Templecombe,TMC
+LDBURY,railn_997,997,Ledbury,LED
+CREWE,railn_673,673,Crewe,CRE
+MONTRSE,railn_2158,2158,Montrose,MTS
+IRLAM,railn_868,868,Irlam,IRL
+LRNCKRK,railn_4110,4110,Laurencekirk,LAU
+BOLTON,railn_1913,1913,Bolton,BON
+PLUMLEY,railn_1609,1609,Plumley,PLM
+RISHTON,railn_1176,1176,Rishton,RIS
+ENTWISL,railn_3148,3148,Entwistle,ENT
+HITW,railn_1582,1582,Hall I' Th' Wood,HID
+BRMCRSS,railn_1584,1584,Bromley Cross,BMC
+WHALLEY,railn_3281,3281,Whalley,WHE
+CLPM,railn_108,108,Clapham (North Yorkshire),CPY
+MSGT,railn_1914,1914,Moses Gate,MSS
+OLDFLDP,railn_3790,3790,Oldfield Park,OLF
+SBCH,railn_2104,2104,Sandbach,SDB
+WALKDEN,railn_2150,2150,Walkden,WKD
+CLITHRO,railn_2829,2829,Clitheroe,CLH
+CHOS,railn_3511,3511,Church & Oswaldtwistle,CTW
+FRNW,railn_3427,3427,Farnworth,FNW
+FLIXTON,railn_866,866,Flixton,FLI
+SHIFNAL,railn_1834,1834,Shifnal,SFN
+KEARSLY,railn_1940,1940,Kearsley,KSL
+BATHSPA,railn_1435,1435,Bath Spa,BTH
+DURSLEY,railn_323,323,Cam & Dursley,CDU
+KNUTSFD,railn_1484,1484,Knutsford,KNF
+CLWALL,railn_1077,1077,Colwall,CWL
+CHASNRD,railn_867,867,Chassen Road,CSR
+ACRNGTN,railn_1643,1643,Accrington,ACR
+KSTP,railn_1251,1251,Kirkby Stephen,KSW
+PTRCRFT,railn_2953,2953,Patricroft,PAT
+DENT,railn_2919,2919,Dent,DNT
+RIBLHED,railn_2920,2920,Ribblehead,RHD
+URMSTON,railn_2305,2305,Urmston,URM
+HCHP,railn_3557,3557,Holmes Chapel,HCH
+MRSD,railn_2176,2176,Moorside,MSD
+HALE,railn_861,861,Hale,HAL
+ALTRNHM,railn_859,859,Altrincham,ALT
+HUNCOAT,railn_1642,1642,Huncoat,HCT
+NAVGTNR,railn_860,860,Navigation Road,NVR
+ASHLEY,railn_1483,1483,Ashley,ASY
+INVURIE,railn_3910,3910,Inverurie,INR
+SWNT,railn_2175,2175,Swinton (Greater Manchester),SNN
+MOBERLY,railn_1482,1482,Mobberley,MOB
+ECCLES,railn_2954,2954,Eccles,ECC
+BRDNML,railn_853,853,Bardon Mill,BLL
+MORETON,railn_2388,2388,Moreton (Dorset),MTN
+MLVRNLK,railn_1120,1120,Malvern Link,MVL
+GOOSTRY,railn_1115,1115,Goostrey,GTR
+GTMLVRN,railn_1078,1078,Great Malvern,GMV
+HMPHRYP,railn_2304,2304,Humphrey Park,HUP
+FROME,railn_3076,3076,Frome,FRO
+GARSDLE,railn_1253,1253,Garsdale,GSD
+FRESHFD,railn_1437,1437,Freshford,FFD
+HAPTON,railn_1644,1644,Hapton,HPN
+CLTN,railn_1939,1939,Clifton,CLI
+TRFDPK,railn_2306,2306,Trafford Park,TRA
+COSFORD,railn_1833,1833,Cosford,COS
+ALSAGER,railn_1512,1512,Alsager,ASG
+GGLSWCK,railn_1743,1743,Giggleswick,GIG
+HTNRIBL,railn_2090,2090,Horton-in-Ribblesdale,HIR
+AVNCLFF,railn_2654,2654,Avoncliff,AVF
+MNCRUFG,railn_4122,4122,Manchester United Football Ground,MUF
+STNHSE,railn_115,115,Stonehouse,SHU
+GLHM,railn_1215,1215,Gillingham (Dorset),GIL
+CHELFD,railn_1114,1114,Chelford,CEL
+ROSG,railn_3923,3923,Rose Grove,RSG
+SETTLE,railn_2089,2089,Settle,SET
+SLFDCT,railn_219,219,Salford Crescent,SLD
+ALBRGHT,railn_1835,1835,Albrighton,ALB
+MNCRIAP,railn_759,759,Manchester Airport,MIA
+BRDFDOA,railn_2653,2653,Bradford-on-Avon,BOA
+BURNLYB,railn_1285,1285,Burnley Barracks,BUB
+SLFDORD,railn_3552,3552,Salford Central,SFD
+LPRESTN,railn_3052,3052,Long Preston,LPR
+MNCRDGT,railn_593,593,Deansgate,DGT
+GLOSTER,railn_2975,2975,Gloucester,GCR
+BURNMR,railn_1012,1012,Burnley Manchester Road,BYM
+KIDSGRV,railn_2276,2276,Kidsgrove,KDG
+KDRMNST,railn_523,523,Kidderminster,KID
+BURNLYC,railn_172,172,Burnley Central,BNC
+MNCRVIC,railn_3862,3862,Manchester Victoria,MCV
+MNCROXR,railn_592,592,Manchester Oxford Road,MCO
+STYAL,railn_200,200,Styal,SYA
+HYDB,railn_85,85,Haydon Bridge,HDB
+ALDEDGE,railn_1116,1116,Alderley Edge,ALD
+HLDG,railn_2767,2767,Heald Green,HDG
+WOOL,railn_480,480,Wool,WOO
+BRIERFL,railn_171,171,Brierfield,BRF
+GATLEY,railn_3437,3437,Gatley,GTY
+MNCRPIC,railn_594,594,Manchester Piccadilly,MAN
+STRUD,railn_113,113,Stroud,STD
+WORCSFS,railn_1119,1119,Worcester Foregate Street,WOF
+WLMSL,railn_199,199,Wilmslow,WML
+HBRY,railn_3000,3000,Hartlebury,HBY
+TRWBRDG,railn_1827,1827,Trowbridge,TRO
+HELIFLD,railn_2830,2830,Hellifield,HLD
+EDIDBRY,railn_2741,2741,East Didsbury,EDY
+DILTONM,railn_2068,2068,Dilton Marsh,DMH
+LNGP,railn_2277,2277,Longport,LPT
+BAGE,railn_2266,2266,Burnage,BNA
+WORCSSH,railn_149,149,Worcester Shrub Hill,WOS
+HNDFRTH,railn_201,201,Handforth,HTH
+ARDWICK,railn_2969,2969,Ardwick,ADK
+NLSN,railn_173,173,Nelson,NEL
+MLDTHRD,railn_2265,2265,Mauldeth Road,MAU
+WSTBRYW,railn_2201,2201,Westbury (Wiltshire),WSB
+SHVN,railn_490,490,Stonehaven,STN
+CODSALL,railn_1899,1899,Codsall,CSL
+ASHBRYS,railn_658,658,Ashburys,ABY
+CONGLTN,railn_2792,2792,Congleton,CNG
+LVHM,railn_806,806,Levenshulme,LVM
+BILBROK,railn_2073,2073,Bilbrook,BBK
+CHDH,railn_3304,3304,Cheadle Hulme,CHU
+WRMNSTR,railn_2069,2069,Warminster,WMN
+STOKEOT,railn_1822,1822,Stoke-on-Trent,SOT
+BLAKEDN,railn_522,522,Blakedown,BKD
+BLLVUE,railn_3540,3540,Belle Vue,BLV
+COLNE,railn_2290,2290,Colne,CNE
+HTCP,railn_808,808,Heaton Chapel,HTC
+CSTL,railn_3484,3484,Castleton (Greater Manchester),CAS
+DYCE,railn_2542,2542,Dyce,DYC
+RYDRBRW,railn_3539,3539,Ryder Brow,RRB
+MLSHILL,railn_2456,2456,Mills Hill,MIH
+MSTN,railn_3533,3533,Moston,MSO
+GORTON,railn_2336,2336,Gorton,GTO
+BMHL,railn_3881,3881,Bramhall,BML
+STKP,railn_2099,2099,Stockport,SPT
+DRTWCHS,railn_3415,3415,Droitwich Spa,DTW
+REDISHS,railn_2098,2098,Reddish South,RDS
+STONE,railn_1565,1565,Stone,SNE
+REDISHN,railn_2373,2373,Reddish North,RDN
+DAVNPRT,railn_3863,3863,Davenport,DVN
+RCHDALE,railn_3485,3485,Rochdale,RCD
+MELKSHM,railn_3240,3240,Melksham,MKM
+HAGLEY,railn_524,524,Hagley,HAG
+PSBY,railn_1952,1952,Prestbury,PRB
+FRFD,railn_2337,2337,Fairfield,FRF
+STRBDGT,railn_2133,2133,Stourbridge Town,SBT
+WMOR,railn_3170,3170,Woodsmoor,WSR
+LNTN,railn_3474,3474,Longton,LGN
+STRBDG1,railn_1365,1365,Stourbridge Junction,SBJ
+STRBDGJ,railn_1365,1365,Stourbridge Junction,SBJ
+BRNGTN,railn_2372,2372,Brinnington,BNT
+POYNTON,railn_1953,1953,Poynton,PYT
+ADLC,railn_1951,1951,Adlington (Cheshire),ADC
+DNTON,railn_2819,2819,Denton,DTN
+STAFFRD,railn_636,636,Stafford,STA
+WARHAM,railn_478,478,Wareham,WRM
+MACLSFD,railn_2791,2791,Macclesfield,MAC
+HAZL,railn_3169,3169,Hazel Grove,HAZ
+WVRMPTN,railn_3667,3667,Wolverhampton,WVH
+PNKRDG,railn_2496,2496,Penkridge,PKG
+CHIPNHM,railn_2370,2370,Chippenham,CPM
+LYEE,railn_944,944,Lye,LYE
+PLTH,railn_489,489,Portlethen,PLN
+GIDB,railn_2649,2649,Guide Bridge,GUI
+SMBG,railn_2876,2876,Smithy Bridge,SMB
+ASHCHRC,railn_2349,2349,Ashchurch for Tewkesbury,ASC
+BREDBRY,railn_2374,2374,Bredbury,BDY
+GRGRAVE,railn_1313,1313,Gargrave,GGV
+WDEN,railn_2877,2877,Walsden,WDN
+CHLTNHM,railn_357,357,Cheltenham Spa,CNM
+TODMRDN,railn_3866,3866,Todmorden,TOD
+ASHONUL,railn_2730,2730,Ashton-under-Lyne,AHN
+LITLBRO,railn_2875,2875,Littleborough,LTL
+WOODLEY,railn_2831,2831,Woodley,WLY
+CRADLYH,railn_942,942,Cradley Heath,CRA
+HEXHAM,railn_83,83,Hexham,HEX
+ABRDEEN,railn_491,491,Aberdeen,ABD
+ROMILEY,railn_1513,1513,Romiley,RML
+COSELEY,railn_1571,1571,Coseley,CSY
+HYDEN,railn_3814,3814,Hyde North,HYT
+HYDEC,railn_3815,3815,Hyde Central,HYC
+MDWD,railn_1100,1100,Middlewood,MDL
+TISBURY,railn_2593,2593,Tisbury,TIS
+HOLTONH,railn_479,479,Holton Heath,HOL
+FLWRYFD,railn_3644,3644,Flowery Field,FLF
+ROHL,railn_3320,3320,Rose Hill Marple,RSH
+PERSHOR,railn_2352,2352,Pershore,PSH
+BLYBDGE,railn_2568,2568,Blythe Bridge,BYB
+NWTH,railn_1334,1334,Newton for Hyde,NWN
+TIPTON,railn_1573,1573,Tipton,TIP
+SBYD,railn_2549,2549,Stalybridge,SYB
+OLHL,railn_943,943,Old Hill,OHL
+MARPLE,railn_116,116,Marple,MPL
+GODLY,railn_1333,1333,Godley,GDL
+DUDLPT,railn_3371,3371,Dudley Port,DDP
+BRMSGRV,railn_1310,1310,Bromsgrove,BMV
+DISLEY,railn_1099,1099,Disley,DSL
+MOSSLEY,railn_729,729,Mossley,MSL
+HATRSLY,railn_1335,1335,Hattersley,HTY
+STRINES,railn_118,118,Strines,SRN
+ROWLEYR,railn_2383,2383,Rowley Regis,ROW
+SKPT,railn_2354,2354,Skipton,SKI
+KEMBLE,railn_114,114,Kemble,KEM
+CNCK,railn_2933,2933,Cannock,CAO
+LNDYW,railn_2932,2932,Landywood,LAW
+HMWTHY,railn_1052,1052,Hamworthy,HAM
+BLOXN,railn_2934,2934,Bloxwich North,BWN
+CRBG,railn_84,84,Corbridge,CRB
+BRBM,railn_3078,3078,Broadbottom,BDB
+GFLD,railn_145,145,Greenfield,GNF
+CONONLY,railn_1059,1059,Cononley,CEY
+SNDWDUD,railn_3670,3670,Sandwell & Dudley,SAD
+BLOXWCH,railn_29,29,Bloxwich,BLX
+BRWCKUT,railn_2797,2797,Berwick-upon-Tweed,BWK
+HBDNBDG,railn_2495,2495,Hebden Bridge,HBD
+NWMILSN,railn_1101,1101,New Mills Newtown,NMN
+NWMILSC,railn_392,392,New Mills Central,NMC
+LGRN,railn_3719,3719,Langley Green,LGG
+HDNS,railn_1023,1023,Hednesford,HNF
+BGRN,railn_3836,3836,Barnt Green,BTG
+BSCTSTA,railn_1932,1932,Bescot Stadium,BSC
+FURNESV,railn_3023,3023,Furness Vale,FNV
+WHALYBG,railn_772,772,Whaley Bridge,WBR
+WALSALL,railn_27,27,Walsall,WSL
+POOLE,railn_1051,1051,Poole,POO
+MYTHLMR,railn_2494,2494,Mytholmroyd,MYT
+LONB,railn_1054,1054,Longbridge,LOB
+GALTILL,railn_708,708,Smethwick Galton Bridge,SGB
+GALTINT,railn_708,708,Smethwick Galton Bridge,SGB
+TAMEBDG,railn_2528,2528,Tame Bridge Parkway,TAB
+RIDNGML,railn_2233,2233,Riding Mill,RDM
+DNTG,railn_939,939,Dinting,DTG
+SMTHKRS,railn_1562,1562,Smethwick Rolfe Street,SMR
+ALVCHRC,railn_2988,2988,Alvechurch,ALV
+HADFILD,railn_3153,3153,Hadfield,HDF
+NRTF,railn_1055,1055,Northfield,NFD
+HNDSHWT,railn_707,707,The Hawthorns,THW
+GLSP,railn_940,940,Glossop,GLO
+EVESHAM,railn_2350,2350,Evesham,EVE
+STEETON,railn_777,777,Steeton & Silsden,SON
+PSTONE,railn_1053,1053,Parkstone (Dorset),PKS
+CHNLY,railn_884,884,Chinley,CLY
+RDIT,railn_2987,2987,Redditch,RDC
+RUGLTWN,railn_1021,1021,Rugeley Town,RGT
+UNVRSYB,railn_2942,2942,University,UNI
+SELYOAK,railn_2943,2943,Selly Oak,SLY
+MRSN,railn_143,143,Marsden,MSN
+KNORTON,railn_2703,2703,Kings Norton,KNN
+RUGL,railn_2077,2077,Rugeley Trent Valley,RGL
+HAMSTED,railn_2529,2529,Hamstead,HSD
+BOURNVL,railn_3876,3876,Bournville,BRV
+STCKSFL,railn_2232,2232,Stocksfield,SKS
+CHEF,railn_771,771,Chapel-en-le-Frith,CEF
+BRANKSM,railn_2675,2675,Branksome,BSM
+BUXTON,railn_2948,2948,Buxton,BUX
+BHAMJEW,railn_709,709,Jewellery Quarter,JEQ
+FIVEWYS,railn_278,278,Five Ways,FWY
+SWRBBDG,railn_2363,2363,Sowerby Bridge,SOW
+KEIGHLY,railn_775,775,Keighley,KEI
+PRYBR,railn_1368,1368,Perry Barr,PRY
+BHAMNWS,railn_277,277,Birmingham New Street,BHM
+BHAMSNH,railn_1280,1280,Birmingham Snow Hill,BSW
+BHAMMRS,railn_1281,1281,Birmingham Moor Street,BMO
+DVHL,railn_773,773,Dove Holes,DVH
+SLTHWTE,railn_144,144,Slaithwaite,SWT
+WITTON,railn_1441,1441,Witton,WTT
+BRDS,railn_2977,2977,Bordesley,BBS
+PRUDHOE,railn_2206,2206,Prudhoe,PRU
+ASTON,railn_3741,3741,Aston,AST
+DUDESTN,railn_3259,3259,Duddeston,DUD
+WYTH,railn_3439,3439,Wythall,WYT
+ELWD,railn_69,69,Earlswood (West Midlands),EWD
+SMLHTH,railn_2108,2108,Small Heath,SMA
+BOMO,railn_2673,2673,Bournemouth,BMH
+UTOXETR,railn_2566,2566,Uttoxeter,UTT
+HLFX,railn_1065,1065,Halifax,HFX
+ADERLYP,railn_3381,3381,Adderley Park,ADD
+YRDLYWD,railn_2125,2125,Yardley Wood,YRD
+GRAVLYH,railn_2128,2128,Gravelly Hill,GVH
+WHLE,railn_2268,2268,Whitlock's End,WTE
+CFLATTS,railn_776,776,Crossflatts,CFL
+HLGN,railn_2124,2124,Hall Green,HLG
+BLKST,railn_2142,2142,Blake Street,BKT
+SHIRLEY,railn_2267,2267,Shirley,SRL
+SHNS,railn_381,381,Shenstone,SEN
+THELAKS,railn_68,68,The Lakes (Warwickshire),TLK
+WDND,railn_70,70,Wood End,WDE
+BNGY,railn_3344,3344,Bingley,BIY
+ERDNGTN,railn_2127,2127,Erdington,ERD
+TYSL,railn_1626,1626,Tyseley,TYS
+BTLRSLA,railn_2143,2143,Butlers Lane,BUL
+SPRD,railn_1627,1627,Spring Road,SRI
+CHSRD,railn_2129,2129,Chester Road,CRD
+HONYBRN,railn_2351,2351,Honeybourne,HYB
+WYGN,railn_2155,2155,Wylde Green,WYL
+FOUROKS,railn_2154,2154,Four Oaks,FOK
+ILKLEY,railn_2973,2973,Ilkley,ILK
+LCHC,railn_382,382,Lichfield City,LIC
+SUTCO,railn_2153,2153,Sutton Coldfield,SUT
+WYLAM,railn_2205,2205,Wylam,WYM
+EDALE,railn_2965,2965,Edale,EDL
+DANZEY,railn_1431,1431,Danzey,DZY
+ACOCKSG,railn_534,534,Acocks Green,ACG
+POKSDWN,railn_2674,2674,Pokesdown,POK
+STECHFD,railn_2317,2317,Stechford,SCF
+LKWD,railn_62,62,Lockwood,LCK
+BNRHYDN,railn_2055,2055,Ben Rhydding,BEY
+OLTON,railn_532,532,Olton,OLT
+LCHTTVL,railn_1011,1011,Lichfield Trent Valley,LTV
+SLSBRY,railn_1275,1275,Salisbury,SAL
+BERRYB,railn_1073,1073,Berry Brow,BBW
+SAIR,railn_3343,3343,Saltaire,SAE
+HDRSFLD,railn_3852,3852,Huddersfield,HUD
+SOLIHUL,railn_533,533,Solihull,SOL
+HONLEY,railn_2790,2790,Honley,HOY
+LEAHALL,railn_2316,2316,Lea Hall,LEH
+BRHOUSE,railn_3020,3020,Brighouse,BGH
+WOTONWN,railn_1430,1430,Wootton Wawen,WWW
+HENLYIA,railn_1429,1429,Henley-in-Arden,HNL
+SDON,railn_1150,1150,Swindon,SWI
+SHPY,railn_693,693,Shipley,SHY
+CHRISTC,railn_2186,2186,Christchurch,CHR
+FRZNGHL,railn_3617,3617,Frizinghall,FZH
+BKHLS,railn_2788,2788,Brockholes,BHS
+WDNYMNR,railn_1981,1981,Widney Manor,WMR
+PEWSEY,railn_1406,1406,Pewsey,PEW
+BURLYIW,railn_2054,2054,Burley-in-Wharfedale,BUW
+BAILDON,railn_645,645,Baildon,BLD
+LOWMOOR,railn_4113,4113,Low Moor,LMR
+BRADFS,railn_3618,3618,Bradford Forster Square,BDQ
+DEIGHTN,railn_2636,2636,Deighton,DHN
+BRADIN,railn_3850,3850,Bradford Interchange,BDI
+MRSTNGR,railn_2007,2007,Marston Green,MGN
+WILMCOT,railn_1997,1997,Wilmcote,WMC
+DORIDGE,railn_2284,2284,Dorridge,DDG
+BEARLEY,railn_409,409,Bearley,BER
+MENSTON,railn_2056,2056,Menston,MNN
+WTRORTN,railn_2315,2315,Water Orton,WTO
+HOPD,railn_3765,3765,Hope (Derbyshire),HOP
+STKSMR,railn_2789,2789,Stocksmoor,SSM
+SOAVPWY,railn_4120,4120,Stratford Pkway,STY
+BLAYDON,railn_2207,2207,Blaydon,BLO
+CHHL,railn_3879,3879,Chathill,CHT
+BHAMINT,railn_2006,2006,Birmingham International,BHI
+LAPWRTH,railn_2282,2282,Lapworth,LPW
+GUISELY,railn_2504,2504,Guiseley,GSY
+APERLYB,railn_4094,4094,Apperley Bridge,APY
+SOAV,railn_1995,1995,Stratford-upon-Avon,SAV
+SPLY,railn_3602,3602,Shepley,SPY
+COLESHL,railn_2314,2314,Coleshill Parkway,CEH
+HINTONA,railn_2184,2184,Hinton Admiral,HNA
+MRPTHRP,railn_1278,1278,Morpeth,MPT
+MIRFILD,railn_793,793,Mirfield,MIR
+HMPTNIA,railn_2008,2008,Hampton-in-Arden,HIA
+MINMARS,railn_2439,2439,Moreton-in-Marsh,MIM
+BAMFORD,railn_3566,3566,Bamford,BAM
+CLAVRDN,railn_411,411,Claverdon,CLV
+BSAUKLD,railn_1617,1617,Bishop Auckland,BIA
+BSAUWEA,railn_1617,1617,Bishop Auckland,BIA
+NPUD,railn_905,905,New Pudsey,NPD
+TMWTHLL,railn_562,562,Tamworth,TAM
+TUTBURY,railn_2567,2567,Tutbury & Hatton,TUT
+GTSHDMC,railn_3889,3889,MetroCentre,MCE
+WILNECT,railn_3843,3843,Wilnecote,WNE
+ACKLNGT,railn_2021,2021,Acklington,ACK
+DNDL,railn_2200,2200,Denby Dale,DBD
+HATTON,railn_3810,3810,Hatton (Warwickshire),HTN
+PEGSWD,railn_2800,2800,Pegswood,PEG
+RTHP,railn_292,292,Ravensthorpe,RVN
+DNSN,railn_3930,3930,Dunston,DOT
+ALNMOTH,railn_3909,3909,Alnmouth,ALM
+HATHRSG,railn_3429,3429,Hathersage,HSG
+SHDN,railn_1615,1615,Shildon,SHD
+BRMLYSR,railn_907,907,Bramley,BLE
+BURTNOT,railn_3068,3068,Burton-on-Trent,BUT
+NMILTON,railn_2185,2185,New Milton,NWM
+DWBY,railn_294,294,Dewsbury,DEW
+BKSWELL,railn_2960,2960,Berkswell,BKW
+HSFT,railn_3461,3461,Horsforth,HRS
+WDRNGTN,railn_2019,2019,Widdrington,WDD
+NWCSTLE,railn_1751,1751,Newcastle,NCL
+KRKSLFR,railn_4109,4109,Kirkstall Forge,KLF
+BATLEY,railn_2578,2578,Batley,BTL
+GRNDLFD,railn_3428,3428,Grindleford,GRN
+PENISTN,railn_1639,1639,Penistone,PNS
+MANORS,railn_2863,2863,Manors,MAS
+KINGHAM,railn_826,826,Kingham,KGM
+DEAN,railn_1272,1272,Dean,DEN
+CRMLNGT,railn_1277,1277,Cramlington,CRM
+PWTH,railn_1187,1187,Polesworth,PSW
+WARWPWY,railn_3811,3811,Warwick Parkway,WRP
+NWTA,railn_1616,1616,Newton Aycliffe,NAY
+GRATELY,railn_3396,3396,Grateley,GRT
+HEDNGLY,railn_3460,3460,Headingley,HDY
+DRHM,railn_2926,2926,Durham,DHM
+MRLY,railn_3610,3610,Morley,MLY
+HGHNGTN,railn_3560,3560,Heighington,HEI
+CLST,railn_2927,2927,Chester-le-Street,CLS
+COTNGLY,railn_3609,3609,Cottingley,COT
+TILEH,railn_2366,2366,Tile Hill,THL
+SWAY,railn_3605,3605,Sway,SWY
+WEETON,railn_3089,3089,Weeton,WET
+BRLEYPK,railn_2418,2418,Burley Park,BUY
+BEDYN,railn_1408,1408,Bedwyn,BDW
+SPTN,railn_824,824,Shipton,SIP
+HEWORTH,railn_1395,1395,Heworth,HEW
+WARWICK,railn_3813,3813,Warwick,WRW
+NTRD,railn_3188,3188,North Road,NRD
+SKSCMN,railn_1638,1638,Silkstone Common,SLK
+DLTN,railn_3189,3189,Darlington,DAR
+WLNTNON,railn_3070,3070,Willington,WIL
+MATLOCK,railn_3682,3682,Matlock,MAT
+MATLCKB,railn_3680,3680,Matlock Bath,MTB
+LEEDS,railn_1318,1318,Leeds,LDS
+ASCTUWD,railn_825,825,Ascott-under-Wychwood,AUW
+BKNHRST,railn_3666,3666,Brockenhurst,BCU
+CROMFD,railn_3681,3681,Cromford,CMF
+ATHRSTN,railn_1188,1188,Atherstone,ATH
+HAGT,railn_419,419,Harrogate,HGT
+PANNAL,railn_420,420,Pannal,PNL
+CANLEY,railn_2364,2364,Canley,CNL
+DRTN,railn_687,687,Darton,DRT
+DODWRTH,railn_686,686,Dodworth,DOD
+HRNBPK,railn_418,418,Hornbeam Park,HBP
+LMNGTNS,railn_2087,2087,Leamington Spa,LMS
+MOTFONT,railn_865,865,Dunbridge,DBG
+DORE,railn_1389,1389,Dore,DOR
+OUTWOOD,railn_3713,3713,Outwood,OUT
+WKFLDWG,railn_1969,1969,Wakefield Westgate,WKF
+LMTNTWN,railn_3588,3588,Lymington Town,LYT
+STARBCK,railn_1269,1269,Starbeck,SBE
+COVNTRY,railn_3195,3195,Coventry,COV
+LMTNPIR,railn_3587,3587,Lymington Pier,LYP
+WATSTND,railn_3864,3864,Whatstandwell,WTS
+LYNDHRD,railn_2996,2996,Ashurst New Forest,ANF
+WKFLDKG,railn_1199,1199,Wakefield Kirkgate,WKK
+HUNGRFD,railn_470,470,Hungerford,HGD
+SABR,railn_1970,1970,Sandal & Agbrigg,SNA
+COVAREN,railn_4100,4100,Coventry Arena,CAA
+DINSDAL,railn_704,704,Dinsdale,DND
+DUFIELD,railn_3496,3496,Duffield,DFI
+BNSLY,railn_298,298,Barnsley,BNY
+KNRSBGH,railn_1268,1268,Knaresborough,KNA
+BELPER,railn_1786,1786,Belper,BLP
+AMBERGT,railn_1788,1788,Ambergate,AMB
+BLIEURD,railn_2997,2997,Beaulieu Road,BEU
+CHBURY,railn_2164,2164,Charlbury,CBY
+DRONFLD,railn_2958,2958,Dronfield,DRO
+CHPLTWN,railn_348,348,Chapeltown,CLN
+PEARTRE,railn_1641,1641,Peartree,PEA
+ANDOVER,railn_2438,2438,Andover,ADV
+ROMSEY,railn_863,863,Romsey,ROM
+SHEFFLD,railn_1387,1387,Sheffield,SHF
+BERMPRK,railn_4096,4096,Bermuda Park,BEP
+DRBY,railn_3464,3464,Derby,DBY
+CSGT,railn_1317,1317,Cross Gates,CRG
+BEDWRTH,railn_1736,1736,Bedworth,BEH
+NLRTN,railn_3330,3330,Northallerton,NTR
+NNTN,railn_1645,1645,Nuneaton,NUN
+TOTTON,railn_2195,2195,Totton,TTN
+FINSTCK,railn_2165,2165,Finstock,FIN
+WDLESFD,railn_1349,1349,Woodlesford,WDS
+TSDARPR,railn_705,705,Tees-side Airport,TEA
+REDBDGE,railn_1340,1340,Redbridge,RDB
+ELSC,railn_349,349,Elsecar,ELR
+NORMNTN,railn_1466,1466,Normanton,NOR
+KNTBRY,railn_468,468,Kintbury,KIT
+CHFD,railn_2957,2957,Chesterfield,CHD
+WOMBWEL,railn_300,300,Wombwell,WOM
+MEADWHL,railn_1282,1282,Meadowhall,MHS
+DARNALL,railn_1679,1679,Darnall,DAN
+SPDN,railn_2320,2320,Spondon,SPO
+SNDRLND,railn_1623,1623,Sunderland,SUN
+STHS,railn_1541,1541,Streethouse,SHC
+MBRK,railn_127,127,Millbrook (Hampshire),MBK
+GARFRTH,railn_3100,3100,Garforth,GRF
+THIRSK,railn_1363,1363,Thirsk,THI
+SOTON,railn_500,500,Southampton Central,SOU
+ALLENSW,railn_1276,1276,Allens West,ALW
+FITZWLM,railn_3085,3085,Fitzwilliam,FZW
+EGRFRTH,railn_3679,3679,East Garforth,EGF
+COMBE,railn_3629,3629,Combe,CME
+SEAHAM,railn_3714,3714,Seaham,SEA
+YAAM,railn_2031,2031,Yarm,YRM
+EGLSCLF,railn_915,915,Eaglescliffe,EAG
+ALFRETN,railn_3791,3791,Alfreton,ALF
+FTHRSTN,railn_1543,1543,Featherstone,FEA
+ROTHCEN,railn_3104,3104,Rotherham Central,RMC
+CASTLFD,railn_2515,2515,Castleford,CFD
+HINCKLY,railn_3745,3745,Hinckley,HNK
+WDHOUSE,railn_1678,1678,Woodhouse,WDH
+STDENYS,railn_713,713,St Denys,SDN
+CSFD,railn_3634,3634,Chandlers Ford,CFR
+HANDBRO,railn_1443,1443,Hanborough,HND
+GLASHTN,railn_2516,2516,Glasshoughton,GLH
+BITERNE,railn_712,712,Bitterne,BTE
+WOLSTON,railn_714,714,Woolston,WLS
+SWYTHLN,railn_3308,3308,Swaythling,SWG
+STOCTON,railn_2814,2814,Stockton,STK
+MCKLFLD,railn_1332,1332,Micklefield,MIK
+CATTAL,railn_1270,1270,Cattal,CTL
+SHOLING,railn_2539,2539,Sholing,SHO
+SOTPKWY,railn_3635,3635,Southampton Airport Parkway,SOA
+LGML,railn_2783,2783,Langley Mill,LGM
+PTFTTSF,railn_2740,2740,Pontefract Tanshelf,POT
+TABY,railn_2168,2168,Thornaby,TBY
+GLDTHRP,railn_3803,3803,Goldthorpe,GOE
+ELGH,railn_330,330,Eastleigh,ESL
+BLTNODR,railn_3760,3760,Bolton-on-Dearne,BTD
+TRNO,railn_3868,3868,Thurnscoe,THC
+PTFTMHL,railn_195,195,Pontefract Monkhill,PFM
+MORTHRP,railn_3650,3650,Moorthorpe,MRP
+PTFTBHL,railn_3649,3649,Pontefract Baghill,PFR
+BNBR,railn_3167,3167,Banbury,BAN
+SWINTN,railn_1628,1628,Swinton (South Yorkshire),SWN
+WHTCHRH,railn_2437,2437,Whitchurch (Hampshire),WCH
+NETLEY,railn_2289,2289,Netley,NTL
+BLNGHM,railn_1420,1420,Billingham,BIL
+HAMERTN,railn_3824,3824,Hammerton,HMM
+NEWBURY,railn_469,469,Newbury,NBY
+SHAWFD,railn_2347,2347,Shawford,SHW
+HMBLE,railn_2288,2288,Hamble,HME
+MEXBRGH,railn_2230,2230,Mexborough,MEX
+SELMSAL,railn_1064,1064,South Elmsall,SES
+ILKES,railn_4106,4106,Ilkeston,ILN
+WNCHSTR,railn_2346,2346,Winchester,WIN
+LNGEATN,railn_2319,2319,Long Eaton,LGE
+NEWBRYR,railn_2878,2878,Newbury Racecourse,NRC
+HEYFORD,railn_3416,3416,Heyford,HYD
+TACKLEY,railn_1445,1445,Tackley,TAC
+KVTNBDG,railn_2815,2815,Kiveton Bridge,KIV
+BURSLDN,railn_1493,1493,Bursledon,BUO
+KNTNGLY,railn_1227,1227,Knottingley,KNO
+KINSSTN,railn_3168,3168,Kings Sutton,KGS
+SMILFD,railn_1331,1331,South Milford,SOM
+MDLSBRO,railn_318,318,Middlesbrough,MBR
+HEDGEND,railn_328,328,Hedge End,HDE
+EMPKWAY,railn_4102,4102,East Midlands Parkway,EMD
+KRKYCEN,railn_1265,1265,Kirkby In Ashfield,KKB
+OXFD,railn_3626,3626,Oxford,OXF
+STTNPWY,railn_2010,2010,Sutton Parkway,SPK
+SHBN,railn_3362,3362,Sherburn in Elmet,SIE
+KVTNPK,railn_2816,2816,Kiveton Park,KVP
+CONBRGH,railn_666,666,Conisbrough,CNS
+CHFN,railn_2710,2710,Church Fenton,CHF
+RUGBY,railn_2574,2574,Rugby,RUG
+HRTLEPL,railn_3366,3366,Hartlepool,HPL
+JAMCOK,railn_4108,4108,James Cook University Hospital,JCH
+SETNCRW,railn_1422,1422,Seaton Carew,SEC
+SWNWICK,railn_1491,1491,Swanwick,SNW
+MCHLDVR,railn_1716,1716,Micheldever,MIC
+ATNBRO,railn_1819,1819,Attenborough,ATB
+OVTN,railn_1715,1715,Overton,OVR
+ULESKLF,railn_833,833,Ulleskelf,ULL
+MARTON,railn_1147,1147,Marton,MTO
+BOTLEY,railn_329,329,Botley,BOE
+NWSTEAD,railn_1549,1549,Newstead,NSD
+CRWLL,railn_3123,3123,Creswell,CWD
+DIDCOTP,railn_2923,2923,Didcot Parkway,DID
+APPLEFD,railn_1230,1230,Appleford,APF
+ISLIP,railn_2563,2563,Islip,ISP
+RDLEY,railn_3035,3035,Radley,RAD
+THATCHM,railn_2009,2009,Thatcham,THA
+LGWITH,railn_1603,1603,Langwith - Whaley Thorns,LAG
+CULHAM,railn_1232,1232,Culham,CUM
+GYPSYLA,railn_2546,2546,Gypsy Lane,GYP
+STHBANK,railn_983,983,South Bank,SBK
+BESTON,railn_1348,1348,Beeston,BEE
+SHRBROK,railn_1506,1506,Shirebrook,SHB
+WHWLL,railn_2252,2252,Whitwell,WWL
+MFLDWSE,railn_1504,1504,Mansfield Woodhouse,MSW
+MFLDTWN,railn_1505,1505,Mansfield,MFT
+NUNTHRP,railn_2547,2547,Nunthorpe,NNT
+HUCKNAL,railn_3600,3600,Hucknall,HKN
+BULWELL,railn_1790,1790,Bulwell,BLW
+NARBRO,railn_3059,3059,Narborough,NBR
+LOGHBRO,railn_2311,2311,Loughborough,LBO
+ADWICK,railn_2042,2042,Adwick,AWK
+SHRKSKS,railn_3556,3556,Shireoaks,SRO
+WHTBDGE,railn_980,980,Whitley Bridge,WBD
+POPLTON,railn_2221,2221,Poppleton,POP
+BTLYSY,railn_2272,2272,Bentley (South Yorkshire),BYK
+FAREHAM,railn_1419,1419,Fareham,FRM
+DONC,railn_374,374,Doncaster,DON
+MIDGHAM,railn_1663,1663,Midgham,MDG
+GTAYTON,railn_3334,3334,Great Ayton,GTA
+REDCBSC,railn_984,984,British Steel Redcar,RBS
+NTNG,railn_3722,3722,Nottingham,NOT
+BAROWOS,railn_403,403,Barrow Upon Soar,BWS
+SHANKLN,railn_3831,3831,Shanklin,SHN
+CHOLSEY,railn_2992,2992,Cholsey,CHO
+WORKSOP,railn_2433,2433,Worksop,WRK
+BCSTN,railn_1404,1404,Bicester North,BCS
+HENSALL,railn_1677,1677,Hensall,HEL
+BCSTRTN,railn_2000,2000,Bicester Town,BIT
+WGSTS,railn_2093,2093,South Wigston,SWS
+BTRSBY,railn_3335,3335,Battersby,BTT
+LAKEIOW,railn_3830,3830,Lake,LKE
+LESTER,railn_677,677,Leicester,LEI
+SNDOWN,railn_3028,3028,Sandown,SAN
+RYDP,railn_2632,2632,Ryde Pier Head,RYP
+RYDE,railn_2631,2631,Ryde Esplanade,RYD
+YORK,railn_832,832,York,YRK
+RYDS,railn_953,953,Ryde St Johns Road,RYR
+SMALBRK,railn_952,952,Smallbrook Junction,SAB
+ALDMSTN,railn_1661,1661,Aldermaston,AMT
+REDCARC,railn_3918,3918,Redcar Central,RCC
+SILEBY,railn_405,405,Sileby,SIL
+GORASTR,railn_2993,2993,Goring & Streatley,GOR
+KLDL,railn_3336,3336,Kildale,KLD
+BRDING,railn_954,954,Brading,BDN
+REDCARE,railn_2451,2451,Redcar East,RCE
+KKSNDAL,railn_3247,3247,Kirk Sandall,KKS
+PCHESTR,railn_635,635,Portchester,PTC
+SELBY,railn_262,262,Selby,SBY
+NTHRFLD,railn_3721,3721,Netherfield,NET
+CRTN,railn_1210,1210,Carlton,CTO
+SYSTON,railn_676,676,Syston,SYS
+LNGBKBY,railn_3812,3812,Long Buckby,LBK
+LONGBCK,railn_2449,2449,Longbeck,LGK
+PHBR,railn_2990,2990,Portsmouth Harbour,PMH
+PANGBRN,railn_1304,1304,Pangbourne,PAN
+MRSK,railn_2450,2450,Marske,MSK
+BSNGSTK,railn_1714,1714,Basingstoke,BSK
+PSEA,railn_2989,2989,Portsmouth & Southsea,PMS
+SNAITH,railn_1676,1676,Snaith,SNI
+THEALE,railn_1662,1662,Theale,THE
+BRTJYC,railn_1208,1208,Burton Joyce,BUJ
+HTFLASF,railn_394,394,Hatfield & Stainforth,HFS
+RADNOT,railn_1783,1783,Radcliffe (Nottinghamshire),RDF
+FRATTON,railn_3010,3010,Fratton,FTN
+BMLY,railn_3056,3056,Bramley (Hampshire),BMY
+COSHAM,railn_633,633,Cosham,CSA
+HILSEA,railn_3009,3009,Hilsea,HLS
+SBRN,railn_3715,3715,Saltburn,SLB
+COMONDL,railn_3350,3350,Commondale,COM
+MTIMER,railn_3055,3055,Mortimer,MOR
+LOWDHAM,railn_1209,1209,Lowdham,LOW
+TILHRST,railn_1303,1303,Tilehurst,TLH
+THORNEN,railn_2718,2718,Thorne North,TNN
+CTNM,railn_3213,3213,Castleton Moor,CSM
+RAWCLIF,railn_2120,2120,Rawcliffe,RWC
+THORNES,railn_3146,3146,Thorne South,TNS
+THRGRTN,railn_2484,2484,Thurgarton,THU
+RTFD,railn_2962,2962,Retford,RET
+REDGWST,railn_1087,1087,Reading West,RDW
+BINGHAM,railn_1399,1399,Bingham,BIN
+DANBY,railn_2146,2146,Danby,DNY
+BDHMPTN,railn_2888,2888,Bedhampton,BDH
+BLEASBY,railn_2483,2483,Bleasby,BSB
+WRESSLE,railn_263,263,Wressle,WRS
+RDNG4AB,railn_1539,1539,Reading,RDG
+RDNGSTN,railn_1539,1539,Reading,RDG
+HAVANT,railn_1944,1944,Havant,HAV
+ALTON,railn_2220,2220,Alton,AON
+HOOK,railn_3283,3283,Hook,HOK
+WRBLNGT,railn_1945,1945,Warblington,WBL
+FISKRTN,railn_2485,2485,Fiskerton,FSK
+HADMATP,railn_1403,1403,Haddenham & Thame Parkway,HDM
+RWLNDSC,railn_1946,1946,Rowlands Castle,RLN
+ROLSTN,railn_2867,2867,Rolleston,ROL
+ASLCKTN,railn_1398,1398,Aslockton,ALK
+MRKTHRB,railn_626,626,Market Harborough,MHR
+PTRSFLD,railn_2240,2240,Petersfield,PTR
+GOOLE,railn_3908,3908,Goole,GOO
+NMPTN,railn_605,605,Northampton,NMP
+EMSWTH,railn_774,774,Emsworth,EMS
+HOWDEN,railn_2011,2011,Howden,HOW
+MLTNSDG,railn_3563,3563,Melton Mowbray,MMO
+ERLY,railn_3508,3508,Earley,EAR
+LEALHLM,railn_2144,2144,Lealholm,LHM
+WNCFILD,railn_2251,2251,Winchfield,WNF
+HNLYOT,railn_746,746,Henley-on-Thames,HOT
+SBOURNE,railn_720,720,Southbourne,SOB
+ELTON,railn_822,822,Elton & Orston,ELO
+WINETGL,railn_3506,3506,Winnersh Triangle,WTI
+SHPLAKE,railn_742,742,Shiplake,SHI
+LISS,railn_513,513,Liss,LIS
+WARGRAV,railn_741,741,Wargrave,WGV
+WINERSH,railn_3507,3507,Winnersh,WNS
+GLAISDL,railn_2145,2145,Glaisdale,GLS
+CROWLE,railn_3145,3145,Crowle,CWE
+AYLSPWY,railn_4095,4095,Aylesbury Vale Parkway,AVP
+SLTMRSH,railn_2037,2037,Saltmarshe,SAM
+MALTON,railn_1076,1076,Malton,MLT
+NUTBORN,railn_719,719,Nutbourne,NUT
+TWYFORD,railn_743,743,Twyford,TWY
+BNTEY,railn_2218,2218,Bentley,BTY
+NWRKCAS,railn_2866,2866,Newark Castle,NCT
+PRINRIS,railn_1405,1405,Princes Risborough,PRR
+ESTRNGT,railn_2012,2012,Eastrington,EGN
+EGTON,railn_3519,3519,Egton,EGT
+NEWANG,railn_1257,1257,Newark North Gate,NNG
+WOKNGHM,railn_3319,3319,Wokingham,WKM
+MNKRISB,railn_3865,3865,Monks Risborough,MRS
+BOTESFD,railn_821,821,Bottesford,BTF
+BOSHAM,railn_721,721,Bosham,BOH
+SUNDRTN,railn_790,790,Saunderton,SDR
+FLEET,railn_2249,2249,Fleet,FLE
+AYLSBRY,railn_1998,1998,Aylesbury,AYS
+GBROC,railn_763,763,Gainsborough Central,GNB
+GBGHLRD,railn_2181,2181,Gainsborough Lea Road,GBL
+WLVR,railn_603,603,Wolverton,WOL
+CRWTHRN,railn_2736,2736,Crowthorne,CRN
+LTLKMBL,railn_1999,1999,Little Kimble,LTK
+GROSMNT,railn_3932,3932,Grosmont,GMT
+SNDHRST,railn_2735,2735,Sandhurst,SND
+FSHBORN,railn_1984,1984,Fishbourne,FSB
+CLHM,railn_880,880,Collingham,CLM
+GLBRDYK,railn_1813,1813,Gilberdyke,GBD
+ALTPE,railn_463,463,Althorpe,ALP
+STKM,railn_2001,2001,Stoke Mandeville,SKM
+LIPHOOK,railn_512,512,Liphook,LIP
+MKNSCEN,railn_3171,3171,Milton Keynes Central,MKC
+FARNHAM,railn_2219,2219,Farnham,FNH
+BCKWATR,railn_2737,2737,Blackwater,BAW
+MARLOW,railn_3924,3924,Marlow,MLW
+OAKHAM,railn_3841,3841,Oakham,OKM
+CHCHSTR,railn_1928,1928,Chichester,CCH
+KETR,railn_1003,1003,Kettering,KET
+WENDOVR,railn_3651,3651,Wendover,WND
+ALDRSHT,railn_2598,2598,Aldershot,AHT
+SLEGHTS,railn_3931,3931,Sleights,SLH
+SWNDRBY,railn_1681,1681,Swinderby,SWD
+FRBRMN,railn_2250,2250,Farnborough (Main),FNB
+BLTCHLY,railn_3119,3119,Bletchley,BLY
+BRACKNL,railn_950,950,Bracknell,BCE
+HWYCOMB,railn_791,791,High Wycombe,HWY
+FRIMLEY,railn_101,101,Frimley,FML
+CMBLEY,railn_103,103,Camberley,CAM
+BRFT,railn_1812,1812,Broomfleet,BMF
+FRBRNTH,railn_3742,3742,Farnborough North,FNN
+FSTR,railn_2475,2475,Fenny Stratford,FEN
+FURZEP,railn_1613,1613,Furze Platt,FZP
+NTHCAMP,railn_3780,3780,North Camp,NCM
+COOKHAM,railn_1614,1614,Cookham,COO
+MDNHEAD,railn_1297,1297,Maidenhead,MAI
+MHERON,railn_576,576,Martins Heron,MAO
+RUSWARP,railn_1912,1912,Ruswarp,RUS
+CORBY,railn_2896,2896,Corby,COR
+SAXILBY,railn_2179,2179,Saxilby,SXY
+ASHVALE,railn_2930,2930,Ash Vale,AHV
+GTMSNDN,railn_3652,3652,Great Missenden,GMN
+SCNTHRP,railn_462,462,Scunthorpe,SCU
+BORNEND,railn_3653,3653,Bourne End,BNE
+BOWBRKH,railn_2474,2474,Bow Brickhill,BWB
+WTBY,railn_1911,1911,Whitby,WTB
+HASLEMR,railn_514,514,Haslemere,HSL
+ASHH,railn_3779,3779,Ash,ASH
+WLNGBRO,railn_1001,1001,Wellingborough,WEL
+LTNBZRD,railn_2785,2785,Leighton Buzzard,LBZ
+BAGSHOT,railn_578,578,Bagshot,BAG
+GTHM,railn_184,184,Grantham,GRA
+TAPLOW,railn_1296,1296,Taplow,TAP
+ASCOT,railn_575,575,Ascot,ACT
+CHDNGTN,railn_2784,2784,Cheddington,CED
+WOBURNS,railn_2476,2476,Woburn Sands,WOB
+WANBRO,railn_3821,3821,Wanborough,WAN
+KRTNLND,railn_761,761,Kirton Lindsey,KTL
+BOGNORR,railn_1927,1927,Bognor Regis,BOG
+HYKEHAM,railn_3805,3805,Hykeham,HKM
+BROUGH,railn_1814,1814,Brough,BUH
+ASPLEYG,railn_3724,3724,Aspley Guise,APG
+BCNSFLD,railn_3279,3279,Beaconsfield,BCF
+BNHAM,railn_1298,1298,Burnham,BNM
+WITLEY,railn_3018,3018,Witley,WTY
+TRING,railn_2786,2786,Tring,TRI
+BRKWOOD,railn_1341,1341,Brookwood,BKO
+SUNNGDL,railn_577,577,Sunningdale,SNG
+MLFORD,railn_3019,3019,Milford (Surrey),MLF
+BRHM,railn_1926,1926,Barnham,BAA
+AMERSHM,railn_3785,3785,Amersham,AMR
+SEERGRN,railn_3278,3278,Seer Green,SRG
+RIDGMNT,railn_3207,3207,Ridgmont,RID
+WINDSEC,railn_2550,2550,Windsor & Eton Central,WNC
+GDLMING,railn_3299,3299,Godalming,GOD
+WSORAER,railn_2303,2303,Windsor & Eton Riverside,WNR
+LINCLNC,railn_3390,3390,Lincoln,LCN
+FRNCMB,railn_3073,3073,Farncombe,FNC
+SLOUGH,railn_2551,2551,Slough,SLO
+LNGCROS,railn_957,957,Longcross,LNG
+ANCASTR,railn_2939,2939,Ancaster,ANC
+FERRIBY,railn_1800,1800,Ferriby,FRY
+DATCHET,railn_2003,2003,Datchet,DAT
+LDLNGTN,railn_1973,1973,Lidlington,LID
+WRPLSDN,railn_3561,3561,Worplesdon,WPL
+GUILDFD,railn_1941,1941,Guildford,GLD
+BERKHMD,railn_3687,3687,Berkhamsted,BKM
+CHLFNAL,railn_1045,1045,Chalfont & Latimer,CFO
+VRGNWTR,railn_955,955,Virginia Water,VIR
+SUNYMDS,railn_2002,2002,Sunnymeads,SNY
+GERRDSX,railn_3280,3280,Gerrards Cross,GER
+SHALFD,railn_3074,3074,Shalford,SFR
+FORD,railn_1929,1929,Ford,FOD
+LRDGFD,railn_595,595,London Road (Guildford),LRD
+BRGG,railn_762,762,Brigg,BGG
+WOKING,railn_2628,2628,Woking,WOK
+MLBRKB,railn_1971,1971,Millbrook (Bedfordshire),MLB
+EGHAM,railn_956,956,Egham,EGH
+LANGLEY,railn_1072,1072,Langley,LNY
+WRYSBRY,railn_2004,2004,Wraysbury,WRY
+STWRTBY,railn_1972,1972,Stewartby,SWR
+ARUNDEL,railn_3412,3412,Arundel,ARU
+LTLHMPT,railn_3206,3206,Littlehampton,LIT
+KMPSTNH,railn_90,90,Kempston Hardwick,KMH
+CHRW,railn_1043,1043,Chorleywood,CLW
+AMLY,railn_3478,3478,Amberley,AMY
+DRIFILD,railn_738,738,Driffield,DRF
+DENHMGC,railn_3286,3286,Denham Golf Club,DGC
+HTNCRNS,railn_1982,1982,Hutton Cranswick,HUT
+BRTHMBR,railn_3890,3890,Barton-on-Humber,BAU
+HESSLE,railn_1798,1798,Hessle,HES
+STAMFD,railn_183,183,Stamford,SMD
+CHLWTH,railn_3784,3784,Chilworth,CHL
+SEAMER,railn_1452,1452,Seamer,SEM
+FLITWCK,railn_1462,1462,Flitwick,FLT
+HRLG,railn_1463,1463,Harlington (Bedfordshire),HLN
+ARRAM,railn_1983,1983,Arram,ARR
+RAUCEBY,railn_3819,3819,Rauceby,RAU
+IVER,railn_1070,1070,Iver,IVR
+CHTSEY,railn_958,958,Chertsey,CHY
+BEVERLY,railn_3420,3420,Beverley,BEV
+SCARBRO,railn_1453,1453,Scarborough,SCA
+STAINES,railn_1883,1883,Staines,SNS
+BEDFDM,railn_91,91,Bedford,BDM
+WBYFLET,railn_2629,2629,West Byfleet,WBY
+DENHAM,railn_1218,1218,Denham,DNM
+PULBRO,railn_3854,3854,Pulborough,PUL
+HEMLHMP,railn_2106,2106,Hemel Hempstead,HML
+CLANDON,railn_597,597,Clandon,CLA
+HTRWTM5,railn_4123,4123,Heathrow Terminal 5,HWV
+BESJOHN,railn_89,89,Bedford St Johns,BSJ
+CTTGHM,railn_3421,3421,Cottingham,CGM
+BNTBY,railn_3306,3306,Barnetby,BTB
+ADLESTN,railn_1125,1125,Addlestone,ASN
+RCKMNSW,railn_1044,1044,Rickmansworth,RIC
+BYFLANH,railn_2677,2677,Byfleet & New Haw,BFN
+NAFERTN,railn_737,737,Nafferton,NFN
+WDRYTON,railn_1071,1071,West Drayton,WDT
+LEAGRVE,railn_1668,1668,Leagrave,LEA
+BARWHVN,railn_3113,3113,Barrow Haven,BAV
+APSLEY,railn_1748,1748,Apsley,APS
+ANGMRNG,railn_3413,3413,Angmering,ANG
+ASFDMSX,railn_1882,1882,Ashford (Surrey),AFS
+SLEFD,railn_1685,1685,Sleaford,SLR
+HTRWAPT,railn_1461,1461,"Heathrow Terminals 1, 2 & 3",LHR
+WEYBDGB,railn_3512,3512,Weybridge,WYB
+WEYBDGE,railn_3512,3512,Weybridge,WYB
+MTHRNGH,railn_2468,2468,Metheringham,MGM
+KLGL,railn_1747,1747,Kings Langley,KGL
+HTRWTM4,railn_1460,1460,Heathrow Terminal 4,HAF
+SHEPRTN,railn_3937,3937,Shepperton,SHP
+NHOL,railn_2625,2625,New Holland,NHL
+WRUISLP,railn_1217,1217,West Ruislip,WRU
+RSKNGTN,railn_1909,1909,Ruskington,RKT
+BILSHST,railn_1817,1817,Billingshurst,BIG
+GOMSHAL,railn_2173,2173,Gomshall,GOM
+HULL,railn_450,450,Hull,HUL
+UHALIFD,railn_3246,3246,Upper Halliford,UPH
+HRSLEY,railn_747,747,Horsley,HSY
+LUTON,railn_1667,1667,Luton,LUT
+HAYESAH,railn_3057,3057,Hayes & Harlington,HAY
+GOXHILL,railn_2624,2624,Goxhill,GOX
+HUNMNBY,railn_946,946,Hunmanby,HUB
+SUNBURY,railn_3244,3244,Sunbury,SUU
+EFNGHMJ,railn_748,748,Effingham Junction,EFF
+WONT,railn_3513,3513,Walton-on-Thames,WAL
+GORNGBS,railn_3307,3307,Goring-by-Sea,GBS
+LUTOAPY,railn_1669,1669,Luton Airport Parkway,LTN
+FELTHAM,railn_1712,1712,Feltham,FEL
+KMPTNPK,railn_3245,3245,Kempton Park,KMP
+MKTR,railn_2687,2687,Market Rasen,MKR
+THABBEY,railn_1245,1245,Thornton Abbey,TNA
+WATFJDC,railn_931,931,Watford Junction,WFJ
+WATFDJ,railn_931,931,Watford Junction,WFJ
+SRUISLP,railn_1219,1219,South Ruislip,SRU
+WATFDHS,railn_932,932,Watford High Street,WFH
+FILEY,railn_945,945,Filey,FIL
+WATFDN,railn_2884,2884,Watford North,WFN
+BUSHYDC,railn_930,930,Bushey,BSH
+CRPNDPK,railn_3726,3726,Carpenders Park,CPK
+BUSHEY,railn_930,930,Bushey,BSH
+GRSTH,railn_2883,2883,Garston (Hertfordshire),GSN
+DRNGTOS,railn_927,927,Durrington-on-Sea,DUR
+HERSHAM,railn_3675,3675,Hersham,HER
+CBHMSDA,railn_2279,2279,Cobham & Stoke d'Abernon,CSD
+ULCEBY,railn_1246,1246,Ulceby,ULC
+STHALL,railn_3882,3882,Southall,STL
+BOOKHAM,railn_3325,3325,Bookham,BKA
+HTCHEND,railn_2406,2406,Hatch End,HTE
+HAMPTON,railn_3292,3292,Hampton,HMP
+WWRTHNG,railn_926,926,West Worthing,WWO
+BCWD,railn_2885,2885,Bricket Wood,BWO
+HRPNDN,railn_2107,2107,Harpenden,HPD
+NTHOLTP,railn_2045,2045,Northolt Park,NLT
+HEDSTNL,railn_2404,2404,Headstone Lane,HDL
+HOUNSLW,railn_1474,1474,Hounslow,HOU
+OXSHOTT,railn_2281,2281,Oxshott,OXS
+WHTTON,railn_3355,3355,Whitton,WTN
+HOWWOOD,railn_87,87,How Wood (Hertfordshire),HWW
+WORTHNG,railn_928,928,Worthing,WRH
+STALBNA,railn_88,88,St Albans Abbey,SAA
+HABRO,railn_1887,1887,Habrough,HAB
+HCKNGTN,railn_1686,1686,Heckington,HEC
+ESHER,railn_3637,3637,Esher,ESH
+PKST,railn_86,86,Park Street,PKT
+CHRSTSH,railn_1815,1815,Christs Hospital,CHH
+GFORD,railn_2904,2904,Greenford,GFD
+FULWELL,railn_3907,3907,Fulwell,FLW
+CLYGATE,railn_2869,2869,Claygate,CLG
+HAROOTH,railn_508,508,Harrow-on-the-Hill,HOH
+HCRT,railn_2238,2238,Hampton Court,HMC
+HANWELL,railn_858,858,Hanwell,HAN
+HROW,railn_2405,2405,Harrow & Wealdstone,HRW
+HROWDC,railn_2405,2405,Harrow & Wealdstone,HRW
+SDBRYHH,railn_3134,3134,Sudbury Hill Harrow,SDH
+SGFORD,railn_3232,3232,South Greenford,SGN
+STRWBYH,railn_3181,3181,Strawberry Hill,STW
+STALBCY,railn_2324,2324,St Albans,SAC
+HNCHLYW,railn_2922,2922,Hinchley Wood,HYW
+ISLEWTH,railn_3026,3026,Isleworth,ISL
+TDITTON,railn_2239,2239,Thames Ditton,THD
+CBARPAR,railn_3233,3233,Castle Bar Park,CBP
+DRAYGRN,railn_857,857,Drayton Green,DRG
+EWRTHNG,railn_1105,1105,East Worthing,EWR
+DRKGW,railn_2172,2172,Dorking West,DKT
+TEDNGTN,railn_1608,1608,Teddington,TED
+TWCKNHM,railn_3800,3800,Twickenham,TWI
+LETHRHD,railn_2832,2832,Leatherhead,LHD
+SYONLA,railn_1262,1262,Syon Lane,SYL
+RADLETT,railn_2322,2322,Radlett,RDT
+OCKLYAC,railn_3693,3693,Ockley,OLY
+WEALING,railn_829,829,West Ealing,WEA
+KTON,railn_3433,3433,Kenton,KNT
+BOXHAWH,railn_3673,3673,Boxhill & Westhumble,BXW
+STMGTS,railn_2747,2747,St Margarets (Greater London),SMG
+SDBRYHR,railn_3133,3133,Sudbury & Harrow Road,SUD
+DEPDENE,railn_2174,2174,Dorking Deepdene,DPD
+DORKING,railn_3671,3671,Dorking,DKG
+WARNHAM,railn_3499,3499,Warnham,WNH
+SKENTON,railn_3884,3884,South Kenton,SOK
+HAMWICK,railn_1606,1606,Hampton Wick,HMW
+BNTFORD,railn_1261,1261,Brentford,BFD
+HLMW,railn_3672,3672,Holmwood,HLM
+NWEMBLY,railn_3934,3934,North Wembley,NWB
+SNDY,railn_1920,1920,Sandy,SDY
+HORSHAM,railn_1816,1816,Horsham,HRH
+CHSSS,railn_2685,2685,Chessington South,CSS
+BRDLNGT,railn_739,739,Bridlington,BDT
+EALINGB,railn_831,831,Ealing Broadway,EAL
+ASHD,railn_2833,2833,Ashtead,AHD
+RICHMND,railn_2745,2745,Richmond (Greater London),RMD
+RICHNLL,railn_2745,2745,Richmond (Greater London),RMD
+SURBITN,railn_3241,3241,Surbiton,SUR
+LNCG,railn_2813,2813,Lancing,LAC
+WMBY,railn_536,536,Wembley Central,WMB
+WMBYDC,railn_536,536,Wembley Central,WMB
+KGSTON,railn_1607,1607,Kingston,KNG
+CHSSN,railn_2684,2684,Chessington North,CSN
+LHVN,railn_3498,3498,Littlehaven,LVN
+PBRO,railn_3305,3305,Peterborough,PBO
+WEMBLSM,railn_506,506,Wembley Stadium,WCX
+BEMPTON,railn_3491,3491,Bempton,BEM
+KEWBDGE,railn_2224,2224,Kew Bridge,KWB
+NSHEEN,railn_3410,3410,North Sheen,NSH
+ARLSEY,railn_2357,2357,Arlesey,ARL
+ELTR,railn_2323,2323,Elstree & Borehamwood,ELS
+KEWGRDN,railn_3411,3411,Kew Gardens,KWG
+BIGLSWD,railn_1921,1921,Biggleswade,BIW
+HITCHIN,railn_3385,3385,Hitchin,HIT
+NRBITON,railn_368,368,Norbiton,NBT
+STNBGPK,railn_535,535,Stonebridge Park,SBP
+BRLANDS,railn_3243,3243,Berrylands,BRS
+STNEOTS,railn_1922,1922,St Neots,SNO
+GNRSBRY,railn_3914,3914,Gunnersbury,GUN
+TOLWTH,railn_2686,2686,Tolworth,TOL
+SACTON,railn_1240,1240,South Acton,SAT
+SBROUGH,railn_2162,2162,Stallingborough,SLL
+ACTONML,railn_716,716,Acton Main Line,AML
+CHISWCK,railn_371,371,Chiswick,CHK
+MRTLKE,railn_2879,2879,Mortlake,MTL
+ACTNCTL,railn_718,718,Acton Central,ACC
+EPSM,railn_3872,3872,Epsom,EPS
+HARLSDN,railn_97,97,Harlesden,HDN
+BTCHWTH,railn_2743,2743,Betchworth,BTO
+MALDENM,railn_2711,2711,Malden Manor,MAL
+MLHB,railn_3317,3317,Mill Hill Broadway,MIL
+NEWMLDN,railn_2859,2859,New Malden,NEM
+BNSBDGE,railn_372,372,Barnes Bridge,BNI
+EWELW,railn_3196,3196,Ewell West,EWW
+LTCE,railn_185,185,Letchworth Garden City,LET
+FAYGATE,railn_3642,3642,Faygate,FGT
+SHRHMBS,railn_1671,1671,Shoreham-by-Sea (Sussex),SSE
+SWSHEAD,railn_2661,2661,Swineshead,SWE
+WLSDJHL,railn_100,100,Willesden Junction,WIJ
+HEALING,railn_2084,2084,Healing,HLI
+WLSDNJL,railn_100,100,Willesden Junction,WIJ
+STLEIGH,railn_2857,2857,Stoneleigh,SNL
+HDON,railn_3912,3912,Hendon,HEN
+BARNES,railn_2787,2787,Barnes,BNS
+WRCSTRP,railn_2856,2856,Worcester Park,WCP
+EWELLE,railn_977,977,Ewell East,EWE
+MOTSPRP,railn_2420,2420,Motspur Park,MOT
+TATNHMC,railn_2811,2811,Tattenham Corner,TAT
+EPSDNS,railn_3920,3920,Epsom Downs,EPD
+TADWTH,railn_3211,3211,Tadworth,TAD
+RAYNSPK,railn_2858,2858,Raynes Park,RAY
+KENSLG,railn_1935,1935,Kensal Green,KNL
+HATFILD,railn_2853,2853,Hatfield,HAT
+HNTNGDN,railn_3140,3140,Huntingdon,HUN
+STEVNGE,railn_3752,3752,Stevenage,SVG
+KENR,railn_99,99,Kensal Rise,KNR
+WELHAMG,railn_2721,2721,Welham Green,WMG
+SHPDSB,railn_4118,4118,Shepherds Bush,SPB
+GTCOATS,railn_2082,2082,Great Coates,GCT
+WLWYNGC,railn_2851,2851,Welwyn Garden City,WGC
+CRKLWD,railn_1374,1374,Cricklewood,CRI
+PUTNEY,railn_2524,2524,Putney,PUT
+BRKMNPK,railn_2719,2719,Brookmans Park,BPK
+BRBYPK,railn_2005,2005,Brondesbury Park,BSP
+WIMLCHS,railn_3475,3475,Wimbledon Chase,WBO
+STHWICK,railn_1670,1670,Southwick,SWK
+KENOLYM,railn_477,477,Kensington Olympia,KPA
+SPALDNG,railn_1908,1908,Spalding,SPA
+CHEAM,railn_978,978,Cheam,CHE
+BALDOCK,railn_187,187,Baldock,BDK
+BANSTED,railn_3184,3184,Banstead,BAD
+QPRK,railn_1761,1761,Queens Park (London),QPW
+WLWYNN,railn_2852,2852,Welwyn North,WLW
+BRBY,railn_3361,3361,Brondesbury,BSY
+WIMBLDN,railn_745,745,Wimbledon,WIM
+WDON,railn_745,745,Wimbledon,WIM
+KGWD,railn_3210,3210,Kingswood,KND
+KNEBWTH,railn_2959,2959,Knebworth,KBW
+SMERTON,railn_3476,3476,South Merton,SMO
+POTRSBR,railn_2720,2720,Potters Bar,PBR
+WSUTTON,railn_989,989,West Sutton,WSU
+IFIELD,railn_3365,3365,Ifield,IFI
+MORDENS,railn_3625,3625,Morden South,MDS
+WBRMPTN,railn_475,475,West Brompton,WBP
+SHLIER,railn_3205,3205,St Helier (Surrey),SIH
+WHMPSTM,railn_3379,3379,West Hampstead Thameslink,WHP
+KLBRNHR,railn_1759,1759,Kilburn High Road,KBN
+REIGATE,railn_2744,2744,Reigate,REI
+FSHRSGT,railn_1019,1019,Fishersgate,FSG
+WHMDSTD,railn_3112,3112,West Hampstead,WHD
+BELM,railn_3182,3182,Belmont,BLM
+SUTTONC,railn_3204,3204,Sutton Common,SUC
+WDWTOWN,railn_1654,1654,Wandsworth Town,WNT
+HYDNSRD,railn_3645,3645,Haydons Road,HYR
+SUTTON,railn_988,988,Sutton (Surrey),SUO
+ERLFLD,railn_1656,1656,Earlsfield,EAD
+FNCHLYR,railn_3111,3111,Finchley Road & Frognal,FNY
+HADLYWD,railn_3772,3772,Hadley Wood,HDW
+CSEAH,railn_4107,4107,Imperial Wharf,IMW
+SHMPSTD,railn_1760,1760,South Hampstead,SOH
+PSLDAWH,railn_1018,1018,Portslade,PLD
+NBARNET,railn_2698,2698,New Barnet,NBA
+PADTON,railn_2534,2534,Paddington (London),PAD
+GRMSBYT,railn_3657,3657,Grimsby Town,GMB
+HBRTBDG,railn_2660,2660,Hubberts Bridge,HBB
+OKLGHPK,railn_2696,2696,Oakleigh Park,OKL
+CRAWLEY,railn_1097,1097,Crawley,CRW
+CLPHMJ2,railn_1653,1653,Clapham Junction,CLJ
+CLPHMJC,railn_1653,1653,Clapham Junction,CLJ
+CLPHMJM,railn_1653,1653,Clapham Junction,CLJ
+CLPHMJW,railn_1653,1653,Clapham Junction,CLJ
+CLPHMJ1,railn_1653,1653,Clapham Junction,CLJ
+HMPSTDH,railn_3040,3040,Hampstead Heath,HDH
+GRMSBYD,railn_3665,3665,Grimsby Docks,GMD
+CRSHLTB,railn_818,818,Carshalton Beeches,CSB
+MARYLBN,railn_507,507,Marylebone (London),MYB
+WHTLSEA,railn_2518,2518,Whittlesea,WLE
+CHSD,railn_2613,2613,Chipstead,CHP
+WANDCMN,railn_3897,3897,Wandsworth Common,WSW
+CRSHLTN,railn_3481,3481,Carshalton,CSH
+EARLSWD,railn_2849,2849,Earlswood (Surrey),ELD
+TOOTING,railn_654,654,Tooting,TOO
+ALDTON,railn_1020,1020,Aldrington,AGT
+REDHILL,railn_2880,2880,Redhill,RDH
+MITCHMJ,railn_744,744,Mitcham Junction,MIJ
+GOSPLOK,railn_2026,2026,Gospel Oak,GPO
+ESTFLDS,railn_4114,4114,Mitcham Eastfields,MTC
+SALFDS,railn_2848,2848,Salfords,SAF
+BALHAM,railn_3893,3893,Balham,BAL
+NEWCLEE,railn_3097,3097,New Clee,NCE
+HKBG,railn_2377,2377,Hackbridge,HCB
+KNTSHTW,railn_1630,1630,Kentish Town West,KTW
+HORLEY,railn_2650,2650,Horley,HOR
+NEWSGAT,railn_2697,2697,New Southgate,NSG
+GTWK,railn_1876,1876,Gatwick Airport,GTW
+WDMNSTR,railn_2611,2611,Woodmansterne,WME
+BATRSPK,railn_2552,2552,Battersea Park,BAK
+THBDGS,railn_1096,1096,Three Bridges,TBD
+QTRDBAT,railn_711,711,Queenstown Road (Battersea),QRB
+WALNGTN,railn_816,816,Wallington,WLT
+VICTRIC,railn_3901,3901,Victoria (London),VIC
+VICTRIE,railn_3901,3901,Victoria (London),VIC
+HOVE,railn_870,870,Hove,HOV
+KNTSHTN,railn_3378,3378,Kentish Town,KTN
+MERSTHM,railn_815,815,Merstham,MHM
+CMDNRD,railn_1290,1290,Camden Road,CMD
+WNDSWRD,railn_3796,3796,Wandsworth Road,WWR
+EUSTON,railn_3856,3856,Euston (London),EUS
+WATONAS,railn_1673,1673,Watton-at-Stone,WAS
+STRHCOM,railn_3406,3406,Streatham Common,SRC
+UPRHLWY,railn_1502,1502,Upper Holloway,UHL
+ASHWELC,railn_151,151,Ashwell & Morden,AWM
+CLPHHS,railn_3851,3851,Clapham High Street,CLP
+COLSDNS,railn_317,317,Coulsdon South,CDS
+PRSP,railn_2015,2015,Preston Park,PRP
+STPX,railn_3098,3098,St Pancras (London),STP
+STRETHM,railn_3929,3929,Streatham,STE
+STPADOM,railn_3098,3098,St Pancras (London),STP
+COLSTWN,railn_2612,2612,Smitham (for Coulsdon),CDN
+CHRX,railn_2393,2393,Charing Cross (London),CHX
+BOWESPK,railn_2646,2646,Bowes Park,BOP
+STRHILL,railn_3647,3647,Streatham Hill,SRH
+ALEXNDP,railn_530,530,Alexandra Palace,AAP
+KNGX,railn_2492,2492,Kings Cross (London),KGX
+HASOCKS,railn_3452,3452,Hassocks,HSK
+VAUXHLM,railn_538,538,Vauxhall (London),VXH
+VAUXHLW,railn_538,538,Vauxhall (London),VXH
+NUTFILD,railn_2327,2327,Nutfield,NUF
+CROUCHH,railn_1090,1090,Crouch Hill,CRH
+CLTHRPS,railn_3096,3096,Cleethorpes,CLE
+BALCOMB,railn_1098,1098,Balcombe,BAB
+CLDNNRB,railn_2979,2979,Caledonian Road & Barnsbury,CIR
+CUFFLEY,railn_216,216,Cuffley,CUF
+NORBURY,railn_3797,3797,Norbury,NRB
+REEDHMS,railn_2850,2850,Reedham (Surrey),RHM
+HRNSY,railn_529,529,Hornsey,HRN
+PALMRSG,railn_2040,2040,Palmers Green,PAL
+CRHL,railn_217,217,Crews Hill,CWH
+BRGHTN,railn_871,871,Brighton,BTN
+WATRLMN,railn_539,539,Waterloo (London),WAT
+BRIXTON,railn_2651,2651,Brixton,BRX
+WADDON,railn_817,817,Waddon,WDO
+BRGHLRD,railn_2828,2828,London Road (Brighton),LRB
+WLOE,railn_2394,2394,Waterloo East (London),WAE
+FNPK,railn_3294,3294,Finsbury Park,FPK
+HRGY,railn_606,606,Harringay,HGY
+DRYP,railn_3060,3060,Drayton Park,DYP
+PURLEY,railn_960,960,Purley,PUR
+WNMHILL,railn_2039,2039,Winchmore Hill,WIH
+BAYFORD,railn_218,218,Bayford,BAY
+FRNDNLT,railn_2584,2584,Farringdon (London),ZFD
+HGHI,railn_3013,3013,Highbury & Islington,HHY
+BURGESH,railn_3451,3451,Burgess Hill,BUG
+HFDN,railn_1672,1672,Hertford North,HFN
+CTMSLNK,railn_3732,3732,City Thameslink (London),CTK
+BLFR,railn_586,586,Blackfriars (London),BFR
+GRPK,railn_2041,2041,Grange Park,GPK
+TULSEH,railn_124,124,Tulse Hill,TUH
+GORDONH,railn_2465,2465,Gordon Hill,GDH
+HRGYGL,railn_465,465,Harringay Green Lanes,HRY
+WNORWOD,railn_3352,3352,West Norwood,WNW
+LBGHJN,railn_158,158,Loughborough Junction,LGJ
+HERNEH,railn_3620,3620,Herne Hill,HNH
+WVLSFLD,railn_3199,3199,Wivelsfield,WVF
+ELPHNAC,railn_587,587,Elephant & Castle,EPH
+ESSEXRD,railn_3012,3012,Essex Road,EXR
+WCROYDN,railn_3356,3356,West Croydon,WCY
+ENFC,railn_2466,2466,Enfield Chase,ENC
+THTH,railn_2868,2868,Thornton Heath,TTH
+BOSTON,railn_2208,2208,Boston,BSN
+CNNB,railn_639,639,Canonbury,CNN
+KNLY,railn_1802,1802,Kenley,KLY
+PURLEYO,railn_959,959,Purley Oaks,PUO
+RDLSDWN,railn_339,339,Riddlesdown,RDD
+MLSECMB,railn_2643,2643,Moulsecoomb,MCB
+CANONST,railn_1172,1172,Cannon Street (London),CST
+MRGT,railn_153,153,Moorgate (London),MOG
+OLDST,railn_155,155,Old Street,OLD
+WDULWCH,railn_3042,3042,West Dulwich,WDU
+DENMRKH,railn_159,159,Denmark Hill,DMK
+SCROYDN,railn_3627,3627,South Croydon,SCY
+ECROYDN,railn_3615,3615,East Croydon,ECR
+SDSD,railn_340,340,Sanderstead,SNR
+LNDNBDC,railn_3613,3613,London Bridge,LBG
+LNDNBDE,railn_3613,3613,London Bridge,LBG
+NDULWCH,railn_123,123,North Dulwich,NDL
+ENFLDTN,railn_2839,2839,Enfield Town,ENF
+HERTFDE,railn_2780,2780,Hertford East,HFE
+HYWRDSH,railn_3200,3200,Haywards Heath,HHE
+SELHRST,railn_1698,1698,Selhurst,SRS
+LIVST,railn_3393,3393,Liverpool Street (London),LST
+GIPSYH,railn_1509,1509,Gipsy Hill,GIP
+STMFDHL,railn_2375,2375,Stamford Hill,SMH
+FENCHRS,railn_2633,2633,Fenchurch Street (London),FST
+EDULWCH,railn_3744,3744,East Dulwich,EDW
+SEVNSIS,railn_548,548,Seven Sisters,SVS
+DALSKLD,railn_640,640,Dalston Kingsland,DLK
+SYDNHMH,railn_3041,3041,Sydenham Hill,SYH
+HAGGERS,railn_3943,3943,Haggerston,HGG
+DALS,railn_3942,3942,Dalston Junction Station East London Line,DLJ
+HOXTON,railn_3944,3944,Hoxton,HOX
+SHRDHST,railn_3945,3945,Shoreditch High Street,SDC
+STKNWNG,railn_3103,3103,Stoke Newington,SKW
+STOTNHM,railn_2287,2287,South Tottenham,STO
+WHHRTLA,railn_1382,1382,White Hart Lane,WHL
+BHILLPK,railn_669,669,Bush Hill Park,BHK
+BRUCGRV,railn_549,549,Bruce Grove,BCV
+WHYTELF,railn_1801,1801,Whyteleafe,WHY
+SIVRST,railn_2278,2278,Silver Street,SLV
+NORWDJ,railn_2562,2562,Norwood Junction,NWD
+RCTRYRD,railn_3102,3102,Rectory Road,REC
+UWRLNGH,railn_341,341,Upper Warlingham,UWL
+CATERHM,railn_1326,1326,Caterham,CAT
+CRYSTLP,railn_1507,1507,Crystal Palace,CYP
+WHYTLFS,railn_1328,1328,Whyteleafe South,WHS
+PCKHMRY,railn_3763,3763,Peckham Rye,PMR
+PKHMRYC,railn_3763,3763,Peckham Rye,PMR
+EDMNGRN,railn_671,671,Edmonton Green,EDR
+TTNHMHL,railn_2261,2261,Tottenham Hale,TOM
+HAKNYNM,railn_848,848,Hackney Downs,HAC
+ANERLEY,railn_2561,2561,Anerley,ANZ
+FAMR,railn_2642,2642,Falmer,FMR
+BTHNLGR,railn_3157,3157,Bethnal Green,BET
+CLAPTON,railn_5,5,Clapton,CPT
+LONFLDS,railn_847,847,London Fields,LOF
+SBURY,railn_670,670,Southbury,SBU
+CAMHTH,railn_3394,3394,Cambridge Heath,CBH
+NMBRLPK,railn_2779,2779,Northumberland Park,NUM
+HACKNYC,railn_1756,1756,Hackney Central,HKC
+SHADWEL,railn_3947,3947,Shadwell,SDE
+PENEW,railn_3583,3583,Penge West,PNW
+PCKHMQD,railn_2873,2873,Queens Road (Peckham),QRP
+WAPPING,railn_3948,3948,Wapping,WPE
+TURKYST,railn_3053,3053,Turkey Street,TUR
+SBRMNDS,railn_1524,1524,South Bermondsey,SBM
+ANGELRD,railn_2777,2777,Angel Road,AGR
+RTHERHI,railn_3949,3949,Rotherhithe,ROE
+BIRKBCK,railn_3526,3526,Birkbeck,BIK
+SYDENHM,railn_1082,1082,Sydenham,SYD
+ROYSTON,railn_150,150,Royston,RYS
+NUNHEAD,railn_3764,3764,Nunhead,NHD
+PNGEE,railn_1527,1527,Penge East,PNE
+FORESTH,railn_1085,1085,Forest Hill,FOH
+CNDAW,railn_3950,3950,Canada Water,ZCW
+SURREYQ,railn_3951,3951,Surrey Quays,SQE
+ELMERSE,railn_1005,1005,Elmers End,ELE
+BLCHSRD,railn_2286,2286,Blackhorse Road,BHO
+HOMRTON,railn_1754,1754,Homerton,HMN
+HONROPK,railn_3007,3007,Honor Oak Park,HPA
+THBLDSG,railn_3054,3054,Theobalds Grove,TEO
+WLDNGHM,railn_3348,3348,Woldingham,WOH
+WARE,railn_2699,2699,Ware,WAR
+KENTHOS,railn_1526,1526,Kent House,KTH
+PNDRSEN,railn_2778,2778,Ponders End,PON
+LIMHSE,railn_2634,2634,Limehouse,LHS
+LEABDGE,railn_4111,4111,Lea Bridge,LEB
+NEWXGEL,railn_3008,3008,New Cross Gate,NXG
+NEWXGTE,railn_3008,3008,New Cross Gate,NXG
+GODSTON,railn_2325,2325,Godstone,GDN
+BRIMSDN,railn_3835,3835,Brimsdown,BMD
+CLOCKHS,railn_1004,1004,Clock House,CLK
+STJMSST,railn_7,7,St James Street,SJS
+BROCKLY,railn_3006,3006,Brockley,BCY
+PLMPTON,railn_3633,3633,Plumpton,PMP
+ENFLDLK,railn_3643,3643,Enfield Lock,ENL
+CFPK,railn_3273,3273,Crofton Park,CFT
+WALHAMX,railn_3414,3414,Waltham Cross,WLC
+CHESHNT,railn_1709,1709,Cheshunt,CHN
+NBCKNHM,railn_3137,3137,New Beckenham,NBC
+NWCRELL,railn_2590,2590,New Cross,NWX
+NWCROSS,railn_2590,2590,New Cross,NWX
+LSYDNHM,railn_2672,2672,Lower Sydenham,LSY
+WLTHQRD,railn_1104,1104,Walthamstow Queens Road,WMW
+HACKNYW,railn_1755,1755,Hackney Wick,HKW
+DEPTFD,railn_2591,2591,Deptford,DEP
+CATFORD,railn_3274,3274,Catford,CTF
+WLTWCEN,railn_1554,1554,Walthamstow Central,WHC
+CATFBDG,railn_1425,1425,Catford Bridge,CFB
+BCKNMJC,railn_3896,3896,Beckenham Junction,BKJ
+BCKNHMJ,railn_3896,3896,Beckenham Junction,BKJ
+BROXBRN,railn_1708,1708,Broxbourne,BXB
+EDPK,railn_1391,1391,Eden Park,EDN
+STJOHNS,railn_2333,2333,St Johns,SAJ
+LDYW,railn_1423,1423,Ladywell,LAD
+MELDRTH,railn_152,152,Meldreth,MEL
+BELNGHM,railn_699,699,Bellingham,BGM
+BCKNHMH,railn_698,698,Beckenham Hill,BEC
+LEWISHM,railn_3380,3380,Lewisham,LEW
+GNWH,railn_3337,3337,Greenwich,GNW
+SMARGRT,railn_1557,1557,St Margarets (Hertfordshire),SMT
+LEYTNMR,railn_1102,1102,Leyton Midland Road,LEM
+STFODOM,railn_2581,2581,Stratford International,SFA
+WWICKHM,railn_1390,1390,West Wickham,WWI
+RYEHOUS,railn_1556,1556,Rye House,RYH
+WDST,railn_1555,1555,Wood Street,WST
+STFD,railn_438,438,Stratford (London),SRA
+HGHMSPK,railn_3541,3541,Highams Park,HIP
+RBRN,railn_700,700,Ravensbourne,RVB
+EGRNSTD,railn_289,289,East Grinstead,EGR
+HTHRGRN,railn_1220,1220,Hither Green,HGR
+MAZEH,railn_2899,2899,Maze Hill,MZH
+MRYLAND,railn_441,441,Maryland,MYL
+SHPRTH,railn_1975,1975,Shepreth,STH
+CHINGFD,railn_3542,3542,Chingford,CHI
+WHAMHL,railn_4121,4121,West Ham,WEH
+LYTNSHR,railn_1103,1103,Leytonstone High Road,LER
+OXTED,railn_2116,2116,Oxted,OXT
+OXTEDBY,railn_2116,2116,Oxted,OXT
+SHRTLND,railn_3193,3193,Shortlands,SRT
+LINGFLD,railn_819,819,Lingfield,LFD
+BLKHTH,railn_2237,2237,Blackheath,BKH
+DORMANS,railn_291,291,Dormans,DMS
+HRSTGRN,railn_2115,2115,Hurst Green,HUR
+LEEE,railn_2906,2906,Lee,LEE
+HAYS,railn_1392,1392,Hayes (Kent),HYS
+COKSBDG,railn_3075,3075,Cooksbridge,CBR
+WCOMBEP,railn_2897,2897,Westcombe Park,WCB
+BROMLYN,railn_1057,1057,Bromley North,BMN
+BROMLYS,railn_1028,1028,Bromley South,BMS
+FRSTGT,railn_521,521,Forest Gate,FOG
+WNSTDPK,railn_1794,1794,Wanstead Park,WNP
+ROYDON,railn_582,582,Roydon,RYN
+GRVPK,railn_1692,1692,Grove Park,GRP
+SNDP,railn_1058,1058,Sundridge Park,SUP
+FOXTON,railn_1976,1976,Foxton,FXN
+KIDBROK,railn_2236,2236,Kidbrooke,KDB
+CRLN,railn_3303,3303,Charlton,CTN
+LEWES,railn_2292,2292,Lewes,LWS
+WDGRNPK,railn_1795,1795,Woodgrange Park,WGR
+MRCH,railn_2520,2520,March,MCH
+MANRPK,railn_3095,3095,Manor Park,MNP
+ELMW,railn_2488,2488,Elmstead Woods,ESD
+BICKLEY,railn_1027,1027,Bickley,BKL
+MOTNGHM,railn_3453,3453,Mottingham,MTG
+ELTHAM,railn_3185,3185,Eltham,ELW
+WOLWCDY,railn_851,851,Woolwich Dockyard,WWD
+SESARDM,railn_1300,1300,Southease,SEE
+CHSLHRS,railn_2487,2487,Chislehurst,CIT
+ILFORD,railn_1620,1620,Ilford,IFD
+WOLWCHA,railn_850,850,Woolwich Arsenal,WWA
+NWELTHM,railn_3676,3676,New Eltham,NEH
+EDNB,railn_2326,2326,Edenbridge,EBR
+BARKING,railn_3445,3445,Barking,BKG
+PETSWD,railn_3832,3832,Petts Wood,PET
+EDNT,railn_3136,3136,Edenbridge Town,EBT
+FALCNWD,railn_1034,1034,Falconwood,FCN
+HRLWTWN,railn_584,584,Harlow Town,HWN
+PLMS,railn_852,852,Plumstead,PLU
+ILFENBP,railn_2878,2878,Newbury Racecourse,NRC
+NEWHVNT,railn_1301,1301,Newhaven Town,NVN
+NEWHVNH,railn_3176,3176,Newhaven Harbour,NVH
+SVNKNGS,railn_1618,1618,Seven Kings,SVK
+ORPNGTN,railn_3826,3826,Orpington,ORP
+GLYNDE,railn_2291,2291,Glynde,GLY
+WELLING,railn_1032,1032,Welling,WLI
+CAMBDGE,railn_780,780,Cambridge,CBG
+SIDCUP,railn_3694,3694,Sidcup,SID
+GODMAYS,railn_1619,1619,Goodmayes,GMY
+SHELFD,railn_3400,3400,Shelford,SED
+HEVER,railn_2435,2435,Hever,HEV
+STMRYC,railn_3081,3081,St Mary Cray,SMY
+BSSN,railn_2556,2556,Bishopstone,BIP
+CHLSFLD,railn_3825,3825,Chelsfield,CLD
+HRLWMIL,railn_2101,2101,Harlow Mill,HWM
+TCULVRT,railn_1848,1848,Thorpe Culvert,TPC
+UCKFILD,railn_412,412,Uckfield,UCK
+ABWD,railn_3576,3576,Abbey Wood,ABW
+CAMBNTH,railn_4098,4098,Cambridge North,CMB
+CHDWLHT,railn_3276,3276,Chadwell Heath,CTH
+COWDEN,railn_1726,1726,Cowden,CWN
+ALBNYPK,railn_2342,2342,Albany Park,AYP
+MANEA,railn_3913,3913,Manea,MNE
+SEAFORD,railn_2554,2554,Seaford,SEF
+BXLYHTH,railn_1033,1033,Bexleyheath,BXH
+WTLESFD,railn_3401,3401,Whittlesford Parkway,WLF
+KNCKHLT,railn_998,998,Knockholt,KCK
+DGNHMDC,railn_2297,2297,Dagenham Dock,DDK
+SBDGWTH,railn_2100,2100,Sawbridgeworth,SAW
+BSHPSFD,railn_2102,2102,Bishops Stortford,BIS
+BEXLEY,railn_2341,2341,Bexley,BXY
+BELVEDR,railn_2760,2760,Belvedere,BVD
+BXTD,railn_414,414,Buxted,BXD
+WAINFLT,railn_1846,1846,Wainfleet,WFL
+WATBECH,railn_358,358,Waterbeach,WBC
+BRNHRST,railn_3503,3503,Barnehurst,BNH
+GTCHSFD,railn_543,543,Great Chesterford,GRC
+ASHURST,railn_1724,1724,Ashurst,AHS
+SWLY,railn_1594,1594,Swanley,SAY
+ERITH,railn_2759,2759,Erith,ERH
+ROMFORD,railn_3277,3277,Romford,RMF
+STANMFC,railn_3603,3603,Stansted Mountfitchet,SST
+DTNG,railn_236,236,Dunton Green,DNG
+CRFD,railn_2343,2343,Crayford,CRY
+AUDLEYE,railn_541,541,Audley End,AUD
+PNSHRST,railn_2339,2339,Penshurst,PHR
+RNHAME,railn_2295,2295,Rainham (Essex),RNM
+NEWPRTE,railn_542,542,Newport (Essex),NWE
+HAVENHS,railn_1847,1847,Havenhouse,HVN
+SLADEGN,railn_1660,1660,Slade Green,SGR
+SVNOAKS,railn_233,233,Sevenoaks,SEV
+SHRMKT,railn_2999,2999,Shoreham (Kent),SEH
+BERWICK,railn_2557,2557,Berwick,BRK
+GIDEAPK,railn_2271,2271,Gidea Park,GDP
+BATABAL,railn_234,234,Bat & Ball,BBL
+OTFORD,railn_1450,1450,Otford,OTF
+ELSENHM,railn_2601,2601,Elsenham,ESM
+CBGH,railn_3248,3248,Crowborough,COH
+EYNSFD,railn_1595,1595,Eynsford,EYN
+EMRSPKH,railn_2192,2192,Emerson Park,EMP
+ERIDGE,railn_1725,1725,Eridge,ERI
+DARTFD,railn_2123,2123,Dartford,DFD
+ELYY,railn_948,948,Ely,ELY
+LEIGHK,railn_2338,2338,Leigh (Kent),LIH
+HRLDWOD,railn_2269,2269,Harold Wood,HRO
+PURFLET,railn_2296,2296,Purfleet,PFL
+FRNNGRD,railn_1596,1596,Farningham Road,FNR
+HLDNBRO,railn_235,235,Hildenborough,HLB
+STANAIR,railn_3391,3391,Stansted Airport,SSD
+UPMNSP6,railn_1069,1069,Upminster,UPM
+UPMNSTR,railn_1069,1069,Upminster,UPM
+UPMNLT,railn_1069,1069,Upminster,UPM
+SKEGNES,railn_2231,2231,Skegness,SKG
+KEMSING,railn_1451,1451,Kemsing,KMS
+STCR,railn_2761,2761,Stone Crossing,SCG
+LTLPORT,railn_1894,1894,Littleport,LTP
+POLGATE,railn_2558,2558,Polegate,PLG
+TUNWELL,railn_3039,3039,Tunbridge Wells,TBW
+GNHT,railn_2762,2762,Greenhithe for Bluewater,GNH
+TONBDG,railn_2340,2340,Tonbridge,TON
+CHADHDD,railn_569,569,Chafford Hundred,CFH
+OCKENDN,railn_571,571,Ockendon,OCK
+BRTWOOD,railn_2270,2270,Brentwood,BRE
+HBROOMS,railn_3440,3440,High Brooms,HIB
+LGFD,railn_3422,3422,Longfield,LGF
+DOWNHAM,railn_2478,2478,Downham Market,DOW
+SWNSCMB,railn_902,902,Swanscombe,SWM
+HMPDNPK,railn_1858,1858,Hampden Park,HMD
+FRANT,railn_3038,3038,Frant,FRT
+BORWGAW,railn_3399,3399,Borough Green & Wrotham,BRG
+EBOURNE,railn_1859,1859,Eastbourne,EBN
+WATLGTN,railn_2477,2477,Watlington,WTG
+GRAYS,railn_3318,3318,Grays,GRY
+SHENFLD,railn_3025,3025,Shenfield,SNF
+EBSFDOM,railn_1744,1744,Ebbsfleet,EBD
+NRTHFLT,railn_900,900,Northfleet,NFL
+DULNGHM,railn_1148,1148,Dullingham,DUL
+WADHRST,railn_1831,1831,Wadhurst,WAD
+KLYNN,railn_2479,2479,Kings Lynn,KLN
+WHORNDN,railn_1068,1068,West Horndon,WHR
+TLBYTWN,railn_3203,3203,Tilbury Town,TIL
+PVNSYAW,railn_1719,1719,Pevensey & Westham,PEV
+MEOPHAM,railn_3270,3270,Meopham,MEP
+SPHL,railn_1587,1587,Shippea Hill,SPP
+NWMKET,railn_1107,1107,Newmarket,NMK
+GRVSEND,railn_3368,3368,Gravesend,GRV
+INGTSTN,railn_2764,2764,Ingatestone,INT
+PVNSYBY,railn_1717,1717,Pevensey Bay,PEB
+SOLEST,railn_1164,1164,Sole Street,SOR
+SNGT,railn_1830,1830,Stonegate,SOG
+PKWD,railn_1117,1117,Paddock Wood,PDW
+BILERCY,railn_3515,3515,Billericay,BIC
+ETILBRY,railn_104,104,East Tilbury,ETL
+BLTRNAB,railn_230,230,Beltring,BEG
+LAINDON,railn_1749,1749,Laindon,LAI
+SLEHOPE,railn_985,985,Stanford-le-Hope,SFO
+NRMNSBY,railn_1718,1718,Normans Bay,NSB
+YALDING,railn_231,231,Yalding,YAL
+WMALING,railn_3548,3548,West Malling,WMA
+WTRNGBY,railn_3858,3858,Wateringbury,WTR
+KENNETT,railn_1108,1108,Kennett,KNE
+EMALING,railn_3547,3547,East Malling,EML
+HALG,railn_920,920,Halling,HAI
+BASILDN,railn_1750,1750,Basildon,BSO
+CHLMSFD,railn_2763,2763,Chelmsford,CHM
+SNODLND,railn_3359,3359,Snodland,SDA
+CODNBCH,railn_2946,2946,Cooden Beach,COB
+NWHYTHE,railn_444,444,New Hythe,NHE
+ETCHNGM,railn_1832,1832,Etchingham,ETC
+CXTN,railn_918,918,Cuxton,CUX
+HIGM,railn_3369,3369,Higham,HGM
+AYLESFD,railn_442,442,Aylesford,AYL
+LAKNHTH,railn_1588,1588,Lakenheath,LAK
+BARMING,railn_3202,3202,Barming,BMG
+CTNG,railn_2945,2945,Collington,CLL
+RBRTSBD,railn_2564,2564,Robertsbridge,RBR
+EFARLGH,railn_3447,3447,East Farleigh,EFL
+PITSEA,railn_986,986,Pitsea,PSE
+STROOD,railn_3704,3704,Strood,SOO
+MARDEN,railn_3062,3062,Marden,MRN
+BEXHILL,railn_2947,2947,Bexhill,BEX
+WIKFORD,railn_3509,3509,Wickford,WIC
+RCHT,railn_1165,1165,Rochester,RTR
+MSTONEB,railn_443,443,Maidstone Barracks,MDB
+BATTLE,railn_805,805,Battle,BAT
+CHATHAM,railn_1192,1192,Chatham,CTM
+MSTONEW,railn_3446,3446,Maidstone West,MDW
+MSTONEE,railn_338,338,Maidstone East,MDE
+CRWHRST,railn_803,803,Crowhurst,CWU
+BRAINTR,railn_1959,1959,Braintree,BTR
+BRAINFP,railn_1255,1255,Braintree Freeport,BTP
+GLNGHMK,railn_3568,3568,Gillingham (Kent),GLM
+CRESING,railn_1254,1254,Cressing,CES
+BTLSBDG,railn_1988,1988,Battlesbridge,BLB
+BENFLET,railn_1896,1896,Benfleet,BEF
+SPHS,railn_3063,3063,Staplehurst,SPU
+BNDON,railn_1622,1622,Brandon,BND
+WSLE,railn_3769,3769,West St Leonards,WLD
+HFLPEVL,railn_2765,2765,Hatfield Peverel,HAP
+WNOTLEY,railn_1256,1256,White Notley,WNY
+BSTD,railn_336,336,Bearsted,BSD
+RAYLEGH,railn_1026,1026,Rayleigh,RLG
+STLNRWS,railn_1402,1402,St Leonards Warrior Square,SLQ
+WDHAMFR,railn_786,786,South Woodham Ferrers,SOF
+HASTING,railn_1400,1400,Hastings,HGS
+RAINHMK,railn_3569,3569,Rainham (Kent),RAI
+WITHAME,railn_3565,3565,Witham,WTM
+OREE,railn_1401,1401,Ore,ORE
+LHONSEA,railn_1897,1897,Leigh-on-Sea,LES
+HBRN,railn_337,337,Hollingbourne,HBN
+DOLEHAM,railn_175,175,Doleham,DLH
+HEADCRN,railn_3551,3551,Headcorn,HCN
+THOK,railn_2392,2392,Three Oaks,TOK
+HOCKLEY,railn_1024,1024,Hockley,HOC
+BSTEDMS,railn_3398,3398,Bury St Edmunds,BSE
+CHLKWEL,railn_2182,2182,Chalkwell,CHW
+FAMBDGE,railn_785,785,North Fambridge,NFA
+NEWNGTN,railn_3632,3632,Newington,NGT
+KELVEDN,railn_1723,1723,Kelvedon,KEL
+HRSM,railn_1111,1111,Harrietsham,HRM
+WCLIFF,railn_2183,2183,Westcliff,WCF
+THETFD,railn_1621,1621,Thetford,TTF
+ROCHFD,railn_1025,1025,Rochford,RFD
+STHEAIR,railn_4119,4119,Southend Airport,SIA
+SUDBURY,railn_3891,3891,Sudbury (Suffolk),SUY
+PRITLWL,railn_2822,2822,Prittlewell,PRL
+STHVIC,railn_3236,3236,Southend Victoria,SOV
+STHCENT,railn_3033,3033,Southend Central,SOC
+LENHAM,railn_1109,1109,Lenham,LEN
+STHNDE,railn_3034,3034,Southend East,SOE
+CHPWKSC,railn_1722,1722,Chappel & Wakes Colne,CWC
+WINCHLS,railn_174,174,Winchelsea,WSE
+BURES,railn_3880,3880,Bures,BUE
+ALTHORN,railn_495,495,Althorne,ALN
+KMSLY,railn_94,94,Kemsley,KML
+STNGBRN,railn_966,966,Sittingbourne,SIT
+SWALE,railn_494,494,Swale,SWL
+QUENBRO,railn_492,492,Queenborough,QBR
+THOPBAY,railn_3767,3767,Thorpe Bay,TPB
+MRKSTEY,railn_1720,1720,Marks Tey,MKT
+SHRNSOS,railn_493,493,Sheerness-on-Sea,SSS
+THUSTON,railn_3789,3789,Thurston,TRS
+RYEE,railn_176,176,Rye,RYE
+PLUCKLY,railn_3550,3550,Pluckley,PLC
+SHBRYNS,railn_3768,3768,Shoeburyness,SRY
+BRNMONC,railn_437,437,Burnham-on-Crouch,BUU
+CRNG,railn_1110,1110,Charing,CHG
+TEYNHAM,railn_967,967,Teynham,TEY
+SMINSTR,railn_436,436,Southminster,SMN
+APDR,railn_2353,2353,Appledore,APD
+HRLNGRD,railn_970,970,Harling Road,HRD
+ELMSWEL,railn_3659,3659,Elmswell,ESW
+CLCHSTR,railn_1721,1721,Colchester,COL
+CLCHRTN,railn_2536,2536,Colchester Town,CET
+HMST,railn_1213,1213,Ham Street,HMT
+ASHFKY,railn_1214,1214,Ashford International,AFK
+CLCHHYT,railn_1869,1869,Hythe (Essex),HYH
+FAVRSHM,railn_1991,1991,Faversham,FAV
+ECLR,railn_968,968,Eccles Road,ECS
+WIVENHO,railn_3011,3011,Wivenhoe,WIV
+WYEE,railn_3549,3549,Wye,WYE
+STWMRKT,railn_3660,3660,Stowmarket,SMK
+ATTLBON,railn_969,969,Attleborough,ATL
+SELLING,railn_2669,2669,Selling,SEG
+ALRESFD,railn_3425,3425,Alresford,ALR
+CLMN,railn_1651,1651,Chilham,CIL
+NEEDHAM,railn_727,727,Needham Market,NMT
+MANNGTR,railn_3284,3284,Manningtree,MNG
+SPONRRW,railn_1810,1810,Spooner Row,SPN
+CHARTHM,railn_1650,1650,Chartham,CRT
+GTBNTLY,railn_3426,3426,Great Bentley,GRB
+WHSTBLE,railn_296,296,Whitstable,WHI
+WYMNDHM,railn_1811,1811,Wymondham,WMD
+MISTLEY,railn_1079,1079,Mistley,MIS
+DISS,railn_3524,3524,Diss,DIS
+WENHNGR,railn_3436,3436,Westenhanger,WHA
+CHSW,railn_295,295,Chestfield & Swalecliffe,CSW
+CNTBW,railn_1652,1652,Canterbury West,CBW
+CNTBE,railn_922,922,Canterbury East,CBE
+WEELEY,railn_1497,1497,Weeley,WEE
+SDLG,railn_3435,3435,Sandling,SDG
+IPSWICH,railn_286,286,Ipswich,IPS
+SHRGHAM,railn_2616,2616,Sheringham,SHM
+WSTRFLD,railn_728,728,Westerfield,WFI
+HRNEBAY,railn_297,297,Herne Bay,HNB
+CLACTON,railn_3887,3887,Clacton-on-sea,CLT
+STURRY,railn_2971,2971,Sturry,STU
+THPLESK,railn_1495,1495,Thorpe-le-Soken,TLS
+WRABNES,railn_2656,2656,Wrabness,WRB
+WRUNTON,railn_2614,2614,West Runton,WRN
+DERBYRD,railn_1181,1181,Derby Road,DBR
+BEKSBRN,railn_921,921,Bekesbourne,BKS
+FLKSTNW,railn_2096,2096,Folkestone West,FKW
+CMER,railn_3024,3024,Cromer,CMR
+KIRBYX,railn_3402,3402,Kirby Cross,KBX
+RGHTNRD,railn_1031,1031,Roughton Road,RNR
+FLKSTNC,railn_2095,2095,Folkestone Central,FKC
+ADISHAM,railn_923,923,Adisham,ADM
+FRINTON,railn_385,385,Frinton-on-sea,FRI
+PRKSTON,railn_120,120,Harwich International,HPQ
+NRCH,railn_242,242,Norwich,NRW
+ALSHAM,railn_2871,2871,Aylesham,AYH
+SNWDNAN,railn_2872,2872,Snowdown,SWO
+WONNAZE,railn_384,384,Walton-on-the-Naze,WON
+GUNTON,railn_401,401,Gunton,GNT
+DOVRCRT,railn_119,119,Dovercourt,DVC
+SWELL,railn_3144,3144,Shepherds Well,SPH
+HARWICH,railn_121,121,Harwich Town,HWC
+WODBDGE,railn_1182,1182,Woodbridge,WDB
+TRIMLEY,railn_3783,3783,Trimley,TRM
+NWALSHM,railn_400,400,North Walsham,NWA
+MELTON,railn_2160,2160,Melton,MES
+KSNY,railn_431,431,Kearsney,KSN
+SALHOUS,railn_936,936,Salhouse,SAH
+WORSTED,railn_402,402,Worstead,WRT
+BCNGNOS,railn_2641,2641,Birchington-on-Sea,BCH
+FLXSTOW,railn_3782,3782,Felixstowe,FLX
+WROXHAM,railn_937,937,Hoveton & Wroxham,HXM
+MINSTER,railn_2228,2228,Minster,MSR
+DOVERP,railn_430,430,Dover Priory,DVP
+BRUNDLG,railn_2436,2436,Brundall Gardens,BGA
+WESGTOS,railn_2639,2639,Westgate-on-Sea,WGA
+WCKHMMR,railn_2161,2161,Wickham Market,WCM
+BRUNDAL,railn_1155,1155,Brundall,BDA
+SWCH,railn_2301,2301,Sandwich,SDW
+MMIL,railn_429,429,Martin Mill,MTM
+MARGATE,railn_2640,2640,Margate,MAR
+BUCKNHM,railn_1154,1154,Buckenham,BUC
+LGWOOD,railn_779,779,Lingwood,LGD
+WALMER,railn_3608,3608,Walmer,WAM
+RAMSGTE,railn_2227,2227,Ramsgate,RAM
+DEAL,railn_2302,2302,Deal,DEA
+CNTLEY,railn_332,332,Cantley,CNY
+SXMNDHM,railn_1122,1122,Saxmundham,SAX
+DUMPTNP,railn_3746,3746,Dumpton Park,DMP
+HALSWTH,railn_3002,3002,Halesworth,HAS
+BRSR,railn_3079,3079,Broadstairs,BSR
+ACLE,railn_778,778,Acle,ACL
+DARSHAM,railn_1123,1123,Darsham,DSM
+BRAMPTN,railn_3733,3733,Brampton (Suffolk),BRP
+RDHAMN,railn_331,331,Reedham (Norfolk),REE
+BECCLES,railn_137,137,Beccles,BCC
+HADISCO,railn_2572,2572,Haddiscoe,HAD
+BRNYARM,railn_796,796,Berney Arms,BYA
+SMRLYTN,railn_3457,3457,Somerleyton,SYT
+OULTNBS,railn_136,136,Oulton Broad South,OUS
+YARMTH,railn_730,730,Great Yarmouth,GYM
+OULTNBN,railn_3788,3788,Oulton Broad North,OUN
+LOWSTFT,railn_648,648,Lowestoft,LWT
+PENYCHN,railn_1384,1384,Penychain Rail Station,BPC
+GLGCLL,railn_2463,2463,Glasgow Central Low Level Rail Station,GCL
+GLGQLL,railn_203,203,Glasgow Queen Street Low Level Rail Station,GQL
+MINFFR,railn_1775,1775,Minffordd Ffestiniog Railway Station,MFD
+LVRPLSL,railn_273,273,Liverpool Lime Street Low Level Rail Station,LVL
+NTNB,railn_637,637,Norton Bridge Rail Station,NTB
+WEDGWD,railn_560,560,Wedgwood Rail Station,WED
+BARLSTN,railn_558,558,Barlaston Rail Station,BRT
+LCHTTVH,railn_1011,1011,Lichfield Trent Valley High Level Rail Station,LIF
+TMWTHHL,railn_562,562,Tamworth High Level Rail Station,TAH
+BRWHINS,railn_3534,3534,Brockley Whins Rail Station,BNR
+OXFPWAY,railn_4116,4116,Oxford Parkway Rail Station,OPY
+RTFDLL,railn_695,695,Retford Low Level Rail Station,REL
+RDNGBUS,railn_1539,1539,Reading Rail Station,RBU
+HTRBUS5,railn_4123,4123,Heathrow Airport Terminal 5,HWX
+HTRWCBS,railn_1461,1461,Heathrow Airport Central Bus Stn (Rail-Air),HTR
+HTRWTE4,railn_1460,1460,Heathrow Terminal 4 (Rail-Air),HWF
+STPXBOX,railn_3098,3098,London St Pancras International LL Rail Station,SPL
+HIGHBYA,railn_3013,3013,Highbury & Islington Rail Station,HII
+WCHAPEL,railn_3946,3946,Whitechapel Rail Station,ZWL
+MWRWSTN,railn_2777,2777,Meridian Water Rail Station,MRW
+ARMLJCN,railn_2416,2416,Armley Junction,
+BRLYJN,railn_2635,2635,Bradley Junction,
+BSTWDPJ,railn_67,67,Bestwood Park Junction,
+COOMJGF,railn_3580,3580,Coombe No 1 Ground Frame,
+CRGDRNJ,railn_254,254,Craigendoran Junction,
+CWLRSSJ,railn_2826,2826,Cowlairs South Junction,
+CWLRSWJ,railn_2824,2824,Cowlairs West Junction,
+DOREWJ,railn_3430,3430,Dore West Junction,
+DRNSFDR,railn_2523,2523,Durnsford Road Staff Halt,
+EPHT,railn_587,587,Elephant & Castle LT,EPH
+ERITHLP,railn_2759,2759,Erith Loop,ERH
+ESJLEDS,railn_1350,1350,Engine Shed Junction,
+FLKSTNE,railn_2097,2097,Folkestone East,
+FOXHALJ,railn_1152,1152,Foxhall Junction,
+GNHLUJN,railn_2723,2723,Greenhill Upper Junction,
+HAMBLEJ,railn_180,180,Hambleton East Junction,
+HAMBLNJ,railn_177,177,Hambleton North Junction,
+HETNLJN,railn_3326,3326,Heaton Lodge Junction,
+HLBDGJN,railn_472,472,High Level Bridge Junction,
+HORBRYJ,railn_3614,3614,Horbury Junction,
+LNGLNDJ,railn_1361,1361,Longlands Junction,
+MORCJGF,railn_909,909,Morecambe Junction Ground Frame,
+NWBG,railn_2731,2731,Newbridge Junction,
+NWMILSJ,railn_393,393,New Mills South Junction,
+NWRKCEJ,railn_877,877,Newark Crossing East Junction,
+NWTLWJ,railn_3093,3093,Newton (Lanarks) West Junction,
+PORTOBL,railn_1410,1410,Portobello Junction (Lothian),
+RADFDJ,railn_1791,1791,Radford Junction,
+RTHGNEJ,railn_388,388,Rutherglen East Junction,
+SGOS,railn_1279,1279,South Gosforth,
+SHEETSJ,railn_52,52,Sheet Stores Junction,
+SHFTHLJ,railn_3383,3383,Shaftholme Junction,
+SHLDJN,railn_2360,2360,Shields Junction,
+SHPYDJN,railn_642,642,Shipley Dockfield Junction,
+SKELTON,railn_1075,1075,Skelton Junction [York],
+SKIRBYJ,railn_1778,1778,South Kirkby Junction,
+TEMPLHJ,railn_3088,3088,Temple Hirst Junction,

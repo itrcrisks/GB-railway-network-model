@@ -1,0 +1,53 @@
+BSNW801611905191912080000001 PXX1F368136124648004 EMU395 140      S S          P
+BX         SEYSE813600                                                          
+LOSTPADOM 1355 135511 PRL    TB                                                 
+LIYWAYSJN           1356H00000000   DNC                                         
+LISTFOWJN           1400 00000000   3                                           
+LISTFODOM 1401 1402      140114023  DNC   T                                     
+LISTFOEJN           1402H00000000                                               
+LIDAGNMJN           1406 00000000                                               
+LIWENGTNX           1407H00000000                                               
+LIEBSFWJN           1410H00000000   6                                           
+LIEBSFDOM 1412 1413H     141214136  NKD   T                                     
+LISPHEADJ           1414H00000000                                               
+LIGRVSEND 1416H1418      141714182        T              H                      
+LIHOOJ              1422H00000000                                               
+LISTROOD  1428 1429      142814291        T                                     
+LIRCHTBDJ           1430H00000000                                               
+LIRCHT    1431H1432H     143214322        T                                     
+LICHATHAM 1435 1436      143514362        T                                     
+LIGLNGHMK 1439H1440H     144014403        T                                     
+LIRAINHMK 1444H1445H     144514452        T                                     
+LIRAINHEJ           1446H00000000   DC                                          
+LINEWNGTN           1448H00000000                                               
+LISTNGWJN           1450H00000000                                               
+LIEJSTNGB           1451 00000000                                               
+LISTNGBRN 1452 1453      145214532        T               1                     
+LTFAVRSHM 1502 15021     TF                                                     
+BSNW801641905191912080000001 PXX1F398139124648005 EMU395 140      S S          P
+BX         SEYSE813900                                                          
+LOFAVRSHM 1330 13301         TB                                                 
+LISTNGBRN 1337H1338H     133813381        T                                     
+LIEJSTNGB           1339H00000000                                               
+LISTNGWJN           1340 00000000                                               
+LINEWNGTN           1342 00000000   UC                                          
+LIRAINHEJ           1344 00000000                                               
+LIRAINHMK 1345 1346      134513461        T                                     
+LIGLNGHMK 1350 1351      135013512        T                                     
+LICHATHAM 1354H1355H     135513551        T                                     
+LIRCHT    1358 1359      135813591        T                                     
+LIRCHTBDJ           1400 00000000                                               
+LISTROOD  1401H1402H     140214022        T                                     
+LIHOOJ              1407H00000000                                               
+LIGRVSEND 1411H1412H     141214121        T                                     
+LISPHEADJ           1414H00000000   5                                           
+CREBSFDOM XX1F398139124648004 EMU395 140      S S                  SE813900     
+LIEBSFDOM 1415H1417      141614175  UPC   T                                     
+LIEBSFWJN           1418H00000000                                               
+LIWENGTNX           1421H00000000                                               
+LIDAGNMJN           1423 00000000                                               
+LISTFOEJN           1427 00000000   2                                           
+LISTFODOM 1428 1429      142814292  UPC   T                                     
+LISTFOWJN           1429H00000000                                               
+LIYWAYSJN           1433 00000000                                               
+LTSTPADOM 1436 143611    TF 
