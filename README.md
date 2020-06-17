@@ -47,7 +47,8 @@ Request the user to cite the model's methodology described in the paper:
 ## Visual output
 
 Code output of node and edge flows (passenger trips/day) as visualised on QGIS
-![Node and edge flows](images/node_edge_flows.png)
+![Node flows](images/node_flows.png)
+![Edge flows](images/edge_flows.png)
 
 ## Next steps
 
